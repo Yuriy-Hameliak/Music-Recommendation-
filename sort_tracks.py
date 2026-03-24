@@ -20,7 +20,7 @@ def sort_playlists(sort_folder, dataset_folder):
         # TIME
         "time/morning":   [r"morning", r"sunrise", r"wake\s*up", r"dawn"],
         "time/day":       [r"daytime", r"afternoon", r"midday", r"work"],
-        "time/evening":   [r"evening", r"sunset", r"dusk", r"chill"],
+        "time/evening":   [r"evening", r"sunset", r"dusk"],
         "time/night":     [r"night", r"midnight", r"late", r"sleep", r"dark"],
         
         # SEASON
