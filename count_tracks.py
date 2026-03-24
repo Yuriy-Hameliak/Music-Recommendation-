@@ -1,4 +1,5 @@
 import os
+import csv
 from pathlib import Path
 
 path = "dataset"
@@ -27,24 +28,56 @@ def analyze_dataset_structure(base_path = path):
             for subcategory_dir in sorted(category_dir.iterdir()):
                 if subcategory_dir.is_dir():
                     subcategory_name = subcategory_dir.name
-                    subcategory_total = 0
+                    
+                    # Множина тепер зберігатиме тупли вигляду: ("Назва пісні", "Артист")
+                    subcategory_unique_tracks = set()
 
-                    # Шукаємо всі CSV файли в підкатегорії
                     for csv_file in subcategory_dir.glob("*.csv"):
                         try:
-                            # Відкриваємо файл і рахуємо рядки
                             with open(csv_file, 'r', encoding='utf-8') as f:
-                                # sum(1 for line in f) рахує всі рядки, -1 відкидає рядок з назвами колонок
-                                row_count = sum(1 for _ in f) - 1
-                                if row_count > 0:
-                                    subcategory_total += row_count
+                                # Використовуємо csv.reader для безпечного парсингу ком
+                                reader = csv.reader(f)
+                                lines = list(reader)
+                                
+                                if not lines:
+                                    continue
+                                
+                                header_idx = -1
+                                song_idx = -1
+                                artist_idx = -1
+                                
+                                # Шукаємо рядок хедера і точні індекси потрібних колонок
+                                for i, row in enumerate(lines):
+                                    if 'Song' in row and 'Artist' in row:
+                                        header_idx = i
+                                        song_idx = row.index('Song')
+                                        artist_idx = row.index('Artist')
+                                        break
+                                
+                                # Якщо хедера немає або не знайшли колонки — скіпаємо
+                                if header_idx == -1:
+                                    continue
+
+                                # Проходимося по треках
+                                for row in lines[header_idx + 1:]:
+                                    # Захист від порожніх або битих рядків
+                                    if not row or len(row) <= max(song_idx, artist_idx):
+                                        continue
+                                        
+                                    song_name = row[song_idx].strip()
+                                    artist_name = row[artist_idx].strip()
+                                    
+                                    if song_name and artist_name:
+                                        # Додаємо тупл у множину
+                                        subcategory_unique_tracks.add((song_name, artist_name))
+
                         except Exception as e:
                             print(f"  [!] Failed to read {csv_file.name}: {e}")
                     
+                    subcategory_total = len(subcategory_unique_tracks)
                     subcategory_stats.append((subcategory_name, subcategory_total))
                     category_total += subcategory_total
             
-            # Гарний вивід результатів для поточної категорії
             print(f"Category: {category_name.upper()} | Overall tracks: {category_total}")
             for sub_name, sub_total in subcategory_stats:
                 print(f"   └── 📂 {sub_name}: {sub_total} rows")
@@ -55,10 +88,5 @@ def analyze_dataset_structure(base_path = path):
     # Фінальний підрахунок
     print(f"Overall # of tracks: {grand_total_rows}")
     print("=" * 50 + "\n")
-
-# --- Як використовувати ---
-# Просто встав шлях до своєї головної папки сюди:
-# folder_path = r"C:\Users\Andriy\Documents\Spotify_Dataset" 
-# analyze_dataset_structure(folder_path)
 
 analyze_dataset_structure()
