@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-path = r"C:\BA\ML\Project\dataset"
+path = "dataset"
 
 def analyze_dataset_structure(base_path = path):
     base_dir = Path(base_path)
