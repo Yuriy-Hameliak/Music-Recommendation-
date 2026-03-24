@@ -1,0 +1,413 @@
+#,Song,Artist,BPM,Camelot,Energy,Added At,Duration,Popularity,Genres,Album,Album Date,Dance,Acoustic,Instrumental,Valence,Speech,Live,Loud (Db),Key,Time Signature,Spotify Track Id,ISRC
+1,"we fell in love in october","girl in red",130,9B,37,2022-08-31,03:04,3,"bedroom pop","we fell in love in october / forget her",2018-11-21,57,11,18,24,0,10,-13,G Major,4,1BYZxKSf0aTxp8ZFoeyM3d,GBKPL1828677
+2,"Dark Red","Steve Lacy",172,2B,78,2022-08-31,02:53,4,"","Dark Red",2017-02-20,60,45,0,78,0,10,-4,F#/G♭ Major,4,37y7iDayfwm3WXn5BiAoRk,GBKPL1778015
+3,"Coffee","beabadoobee",119,11B,14,2022-08-31,02:06,73,"bedroom pop","Coffee",2017-11-04,53,98,96,30,0,10,-18,A Major,4,429NtPmr12aypzFH3FkN9l,GBK3W1800819
+4,"Apocalypse","Cigarettes After Sex",94,7B,47,2022-08-31,04:50,4,"dream pop","Cigarettes After Sex",2017-06-09,37,2,46,17,0,10,-9,F Major,4,3AVrVz5rK8Hrqo9YGiVGN5,USBQU1700034
+5,"Yellow","Coldplay",173,1B,66,2022-08-31,04:26,92,"","Parachutes",2000-07-10,43,0,0,28,0,20,-7,B Major,4,3AJwUDP919kvQ9QcozQPxg,GBAYE0000267
+6,"Space Song","Beach House",147,5A,79,2022-08-31,05:20,78,"dream pop","Depression Cherry",2015-08-28,51,23,12,60,0,10,-7,C Minor,4,7H0ya83CMmgFcOhw0UB6ow,USSUB1512203
+7,"cardigan","Taylor Swift",130,5A,58,2022-08-31,03:59,67,"","folklore (deluxe version)",2020-08-18,61,53,0,53,0,20,-9,C Minor,4,0KRYCBwIpWYFNrXOmXbyUh,USUG12002836
+8,"exile (feat. Bon Iver)","Taylor Swift,Bon Iver",76,2B,37,2022-08-31,04:45,66,"","folklore (deluxe version)",2020-08-18,31,76,0,16,0,10,-8,F#/G♭ Major,4,5S4aYQAJOwJMAamANWlICO,USUG12002838
+9,"All Too Well (Taylor's Version)","Taylor Swift",186,8B,53,2022-08-31,05:29,73,"","Red (Taylor's Version)",2021-11-12,44,2,0,13,0,20,-8,C Major,4,3nsfB1vus2qaloUdcBZvDu,USUG12103665
+10,"right where you left me - bonus track","Taylor Swift",138,6B,62,2022-08-31,04:05,76,"","evermore (deluxe version)",2021-01-07,58,77,0,65,0,10,-7,A#/B♭ Major,4,3zwMVvkBe2qIKDObWgXw4N,USUG12004720
+11,"Oh Klahoma","Jack Stauber",109,9B,40,2022-08-31,03:05,72,"","Pop Food",2017-03-25,70,43,1,48,0,30,-10,G Major,4,6SZwj6cjc8JQbkrr8cbIUn,QMPKX1703670
+12,"Astronomy","Conan Gray",145,9A,34,2022-08-31,04:03,60,"","Astronomy",2021-05-07,47,59,0,11,0,30,-9,E Minor,3,0KmgJyW4GDgonqsoyx0CZ3,USUM72106337
+13,"august","Taylor Swift",90,7B,62,2022-08-31,04:21,84,"","folklore",2020-07-24,53,54,0,40,0,0,-9,F Major,4,3hUxzQpSfdDqwM3ZTFQY0K,USUG12002842
+14,"Flume","Bon Iver",134,1B,15,2022-08-31,03:39,0,"","For Emma, Forever Ago",2008-05-12,46,92,7,8,0,10,-17,B Major,4,6a1wMgJ42Okk5LjulbrtcZ,US38Y0811501
+15,"Mystery of Love","Sufjan Stevens",132,9A,27,2022-08-31,04:08,68,"baroque pop","Call Me By Your Name (Original Motion Picture Soundtrack)",2017-11-03,37,94,43,24,0,10,-17,E Minor,5,4HbeGjbt7u3pvwDk1vN7P0,US64G1737302
+16,"Bags","Clairo",105,3B,55,2022-08-31,04:20,9,"bedroom pop","Immunity",2019-08-02,74,17,38,87,0,10,-8,C♯/D♭ Major,4,6UFivO2zqqPFPoQYsEMuCc,US4HB1900080
+17,"Blondie","Current Joys",122,2B,63,2022-08-31,03:14,2,"lo-fi indie","Wild Heart",2013-01-02,78,62,90,87,0,0,-13,F#/G♭ Major,4,7sIx70dGj3VBiHWr0KZXfD,TCACS1661024
+18,"Lovers Rock","TV Girl",105,4A,87,2022-08-31,03:33,88,"","French Exit",2014-06-05,56,0,1,57,0,10,-5,F Minor,4,6dBUzqjtbnIa1TwYbyw5CM,USHM21438143
+19,"Sunsetz","Cigarettes After Sex",75,8A,48,2022-08-31,03:35,7,"dream pop","Cigarettes After Sex",2017-06-09,41,6,81,13,0,10,-9,A Minor,4,0SpkyS1Q4MD8GaVcP5YjT4,USBQU1700033
+20,"Sweet","Cigarettes After Sex",96,2B,51,2022-08-31,04:52,6,"dream pop","Cigarettes After Sex",2017-06-09,45,35,76,12,0,10,-9,F#/G♭ Major,4,6ilc4vQcwMPlvAHFfsTGng,USBQU1700036
+21,"Tek It","Cafuné",147,4B,91,2022-08-31,03:11,83,"","Running",2021-07-20,42,0,0,60,0,20,-5,G#/A♭ Major,4,751srcHf5tUqcEa9pRCQwP,QM24S1926168
+22,"I Think I Like When It Rains","WILLIS",124,11B,47,2022-08-31,04:38,0,"","Locals 2",2017-06-12,62,4,0,28,0,10,-7,A Major,4,5S5u0EWtlblH00iTNExZ6X,QMAAK1724976
+23,"K.","Cigarettes After Sex",94,5B,40,2022-08-31,05:20,7,"dream pop","Cigarettes After Sex",2017-06-09,45,14,84,32,0,10,-10,D#/E♭ Major,4,1FWsomP9StpCcXNWmJk8Cl,USBQU1600214
+24,"Autumn In New York","Billie Holiday",72,3A,10,2022-08-31,03:44,56,"jazz, vocal jazz, big band, swing music","Recital",1956-01-01,59,96,0,29,0,10,-15,A#/B♭ Minor,4,6o5RbQYhmF4yRRw7ZArxGL,USPR35200080
+25,"the perfect pair","beabadoobee",146,1B,66,2022-08-31,02:57,83,"bedroom pop","Beatopia",2022-07-15,63,43,12,60,0,10,-7,B Major,4,41P6Tnd8KIHqON0QIydx6a,GBK3W2202093
+26,"Tired","beabadoobee",140,6A,42,2022-08-31,03:19,73,"bedroom pop","Patched Up",2018-12-07,63,48,15,35,0,10,-7,G Minor,4,6F5mZpEEjhsAW8UEqbIpz1,GBK3W1800910
+27,"Mrs Magic","Strawberry Guy",133,4B,63,2022-08-31,03:28,81,"bedroom pop","Mrs Magic",2019-07-24,47,16,37,37,0,30,-7,G#/A♭ Major,4,0TZejo18HlJ86OrWNsXKnw,GBJGV1900102
+28,"Cigarettes out the Window","TV Girl",114,8B,66,2022-08-31,03:18,86,"","Who Really Cares",2016-02-25,63,12,0,59,0,10,-6,C Major,4,6QeYSvYqYUsfBzsApbjDHO,USCGH1682129
+29,"There Is a Light That Never Goes Out - 2011 Remaster","The Smiths",136,12B,77,2022-08-31,04:04,85,"new wave, madchester, jangle pop","The Queen Is Dead",1986-06-16,52,4,0,88,0,10,-6,E Major,4,0WQiDwKJclirSYG9v5tayI,GBCRL1100054
+30,"Back to the Old House - 2011 Remaster","The Smiths",104,10B,49,2022-08-31,03:06,83,"new wave, madchester, jangle pop","Louder Than Bombs",1987-00-00,63,1,0,40,0,10,-8,D Major,3,6LUGvXEAK8WxIBYK43uoTb,GBCRL1100089
+31,"Paper Bag","Fiona Apple",141,8B,45,2022-08-31,03:39,66,"art pop","When The Pawn...",1999-11-09,71,72,0,84,0,10,-10,C Major,3,0IVkP59yJ9GFF6B7IrvrxA,USSM19910365
+32,"Fade Into You","Mazzy Star",157,11B,33,2022-08-31,04:55,87,"dream pop, shoegaze, slowcore","So Tonight That I Might See",1993-10-05,42,25,0,18,0,0,-14,A Major,3,1LzNfuep1bnAUR9skqdHCK,USCA29300105
+33,"Mary On A Cross","Ghost",130,1B,90,2022-08-31,04:04,60,"metal, hard rock","Seven Inches Of Satanic Panic",2019-09-13,47,0,0,56,0,10,-4,B Major,4,0LOo3MYjiSzIOLjSd9wZUw,USC4R1902750
+34,"Mary","Alex G",106,9A,47,2022-08-31,03:17,0,"","Trick",2012-11-05,69,5,45,40,0,10,-10,E Minor,4,2dIXo77nRAdRHJM1ETHKE9,GBJET1400056
+35,"Advice","Alex G",170,6B,61,2022-08-31,02:37,0,"","Trick",2012-11-05,36,0,87,27,0,10,-6,A#/B♭ Major,4,6F8uY9PmmVUZ8tcUkmCKNI,GBJET1400050
+36,"Pumpkin","The Regrettes",120,6B,62,2022-08-31,03:27,46,"riot grrrl, queercore","How Do You Love?",2019-08-09,57,1,0,23,0,10,-4,A#/B♭ Major,4,3erMpGAv6cGCEcYcaE19p1,USWB11900393
+37,"bad idea!","girl in red",162,3B,81,2022-08-31,03:39,0,"bedroom pop","chapter 2",2019-09-06,51,3,5,41,0,20,-6,C♯/D♭ Major,4,12fCqKoz3XXUgB5P8YWwOI,GBKPL1963282
+38,"Brooklyn Baby","Lana Del Rey",108,3B,66,2022-08-31,05:51,85,"","Ultraviolence (Deluxe)",2014-01-01,40,54,0,9,0,10,-7,C♯/D♭ Major,4,1NZs6n6hl8UuMaX0UC0YTz,GBUM71402169
+39,"Cinnamon Girl","Lana Del Rey",92,11A,34,2022-08-31,05:00,89,"","Norman Fucking Rockwell!",2019-08-30,29,81,41,14,0,10,-11,F#/G♭ Minor,5,2mdEsXPu8ZmkHRRtAdC09e,GBUM71903147
+40,"Little Freak","Harry Styles",142,5B,54,2022-08-31,03:22,75,"","Harry's House",2022-05-20,56,72,0,40,0,10,-8,D#/E♭ Major,4,3i058E8uxTsYqJ5NWZzqSj,USSM12200614
+41,"Falling in Love at a Coffee Shop","Landon Pigg",83,12B,56,2022-08-31,04:04,52,"","The Boy Who Never",2009-09-28,49,20,0,24,0,10,-8,E Major,3,1KHdq8NK9QxnGjdXb55NiG,USRC10900386
+42,"Sparks","Coldplay",103,3B,27,2022-08-31,03:47,91,"","Parachutes",2000-07-10,37,75,5,17,0,10,-11,C♯/D♭ Major,3,7D0RhFcb3CrfPuTJ0obrod,GBAYE0000569
+43,"Sweater Weather","The Neighbourhood",124,6B,81,2022-09-01,04:00,92,"","I Love You.",2013-04-22,61,5,2,40,0,10,-3,A#/B♭ Major,4,2QjOHCTQ1Jl3zawyYOpxh6,USSM11300080
+44,"mirrorball","Taylor Swift",110,10B,41,2022-09-04,03:28,74,"","folklore",2020-07-24,55,69,0,38,0,0,-10,D Major,4,0ZNU020wNYvgW84iljPkPP,USUG12002840
+45,"champagne problems","Taylor Swift",171,8B,24,2022-09-05,04:04,66,"","evermore (deluxe version)",2021-01-07,46,92,0,32,0,10,-12,C Major,4,1gcyHQpBQ1lfXGdhZmWrHP,USUG12004700
+46,"Apocalypse","Cigarettes After Sex",94,7B,47,2022-09-05,04:50,11,"dream pop","Cigarettes After Sex",2017-06-09,37,2,57,18,0,10,-9,F Major,4,0yc6Gst2xkRu0eMLeRMGCX,USBQU1700034
+47,"my tears ricochet","Taylor Swift",130,8B,26,2022-09-05,04:15,80,"","folklore",2020-07-24,47,81,0,11,0,0,-11,C Major,4,1MgV7FIyNxIG7WzMRJV5HC,USUG12002839
+48,"Where You Lead I Will Follow","Carole King",107,8B,76,2022-09-05,03:29,0,"singer-songwriter, folk rock","Love Makes The World (Deluxe Edition)",2001-00-00,74,32,0,66,0,0,-7,C Major,4,4ktjOehRwE3p3pJz5YB1Dl,USRG20210201
+49,"Space Song","Beach House",147,5A,79,2022-09-10,05:20,76,"dream pop","Depression Cherry",2015-08-28,51,23,14,61,0,10,-7,C Minor,4,1ZgMsA55GIY7ICkQh5MILA,USSUB1512203
+50,"Bad Habit","Steve Lacy",169,3B,49,2022-09-10,03:52,85,"","Gemini Rights",2022-07-15,69,61,0,70,0,40,-7,C♯/D♭ Major,4,4k6Uh1HXdhtusDW5y8Gbvy,USRC12201440
+51,"Moonlight on the River","Mac DeMarco",140,11B,48,2022-09-10,07:02,79,"indie, lo-fi indie","This Old Dog",2017-05-05,66,25,83,43,0,20,-9,A Major,4,2fhOljbX79loRcdl47SFye,QMMZN1701309
+52,"Genesis","Grimes",166,3A,68,2022-09-10,04:15,75,"art pop","Visions",2012-03-12,61,8,7,23,0,20,-7,A#/B♭ Minor,4,0yljUudXzjVcGEoYmLB17X,CA21O1200002
+53,"Amoeba","Clairo",111,2B,49,2022-09-13,03:48,75,"bedroom pop","Sling",2021-07-16,74,79,4,71,0,10,-12,F#/G♭ Major,4,0HAqq2GcQKyi3s87GuN7jU,USUG12101891
+54,"Sofia","Clairo",113,8B,62,2022-09-13,03:08,9,"bedroom pop","Immunity",2019-08-02,74,60,0,64,0,20,-10,C Major,4,7B3z0ySL9Rr0XvZEAjWZzM,US4HB1900086
+55,"The Other Woman","Lana Del Rey",112,6A,47,2022-09-13,03:01,75,"","Ultraviolence (Deluxe)",2014-01-01,26,82,25,18,0,30,-6,G Minor,4,1KuVEZR4xuQVNr1KkanAV4,GBUM71402106
+56,"Norman fucking Rockwell","Lana Del Rey",78,7B,20,2022-09-13,04:08,74,"","Norman Fucking Rockwell!",2019-08-30,22,97,6,14,0,0,-13,F Major,1,3RIgHHpnFKj5Rni1shokDj,GBUM71903153
+57,"evermore (feat. Bon Iver)","Taylor Swift,Bon Iver",125,3B,27,2023-08-30,05:04,61,"","evermore",2020-12-11,39,94,0,32,0,10,-11,C♯/D♭ Major,5,3O5osWf1rSoKMwe6E9ZaXP,USUG12004719
+58,"Fear","Current Joys",94,10B,45,2022-09-13,03:36,0,"lo-fi indie","A Different Age",2018-03-02,72,70,43,51,0,0,-8,D Major,4,2VkyY15WPQlzcC6SV9BGAt,QMBZ91743918
+59,"cardigan","Taylor Swift",130,5A,58,2022-09-15,03:59,85,"","folklore",2020-07-24,61,54,0,55,0,20,-9,C Minor,4,4R2kfaDFhslZEMJqAFNpdd,USUG12002836
+60,"Middy Tiddy","Paulie Leparik",132,5B,64,2022-09-16,01:34,0,"","Middy Tiddy",2018-04-04,58,7,83,81,0,40,-5,D#/E♭ Major,4,7FAeGZj6pT6X2X8EboCKwj,QM42K1867387
+61,"Another One","Mac DeMarco",148,12A,41,2022-09-16,02:40,70,"indie, lo-fi indie","Another One",2015-08-07,69,82,2,72,0,10,-10,C♯/D♭ Minor,4,63q9LqTK5iiZLy3cTvLMUf,QMMZN1300873
+62,"i was all over her","salvia palth",105,9B,35,2022-09-22,02:41,2,"slowcore, lo-fi indie","melanchole",2014-07-01,53,79,85,6,0,10,-13,G Major,4,7svpAkwc6xaSxlbZ7V7JiS,GBSMU1456120
+63,"Motion Sickness","Phoebe Bridgers",107,3B,55,2022-09-22,03:49,65,"","Stranger in the Alps (Deluxe Edition)",2018-10-02,65,77,4,62,0,0,-9,C♯/D♭ Major,4,25Syi9wnfn6ZGAmiOBypPq,USJ5G1714202
+64,"Little Dark Age","MGMT",98,2B,71,2022-09-27,04:59,79,"indie","Little Dark Age",2018-02-09,71,1,0,62,0,10,-6,F#/G♭ Major,4,2Y0iGXY6m6immVb2ktbseM,USSM11707035
+65,"Wicked Game","Chris Isaak",112,11B,30,2022-09-30,04:49,86,"","Heart Shaped World",1989-06-13,66,68,1,36,0,0,-18,A Major,4,7w5AOd6HrDIHewHfpABEss,USRE19900989
+66,"evermore (feat. Bon Iver)","Taylor Swift,Bon Iver",121,3B,27,2022-10-06,05:04,65,"","evermore",2020-12-10,40,94,0,31,0,10,-11,C♯/D♭ Major,5,0AaV4MJrgmLV3XhoiWXjjb,USUG12004719
+67,"exile (feat. Bon Iver)","Taylor Swift,Bon Iver",76,2B,38,2022-10-06,04:45,80,"","folklore",2020-07-24,30,78,0,15,0,10,-8,F#/G♭ Major,4,4pvb0WLRcMtbPGmtejJJ6y,USUG12002838
+68,"Apple Cider","beabadoobee",138,10B,92,2022-10-06,02:58,77,"bedroom pop","Loveworm",2019-04-26,49,8,1,68,0,30,-4,D Major,4,5xA5MggKc3aQxuOzNzPUWB,GBK3W1901010
+69,"Fluorescent Adolescent","Arctic Monkeys",112,12A,83,2022-10-10,03:03,78,"indie, garage rock","Favourite Worst Nightmare",2007-04-22,65,0,0,79,0,10,-5,C♯/D♭ Minor,4,2x8evxqUlF0eRabbW2JBJd,GBCEL0700067
+70,"Sea, Swallow Me","Cocteau Twins,Harold Budd",164,8B,67,2022-10-10,03:09,65,"dream pop, shoegaze, gothic rock, ambient, minimalism","The Moon and the Melodies",1986-11-10,45,59,24,83,0,20,-13,C Major,3,7vPHiwgCOAjSBRjAirbMvS,GBAFL8600048
+71,"Not Allowed","TV Girl",105,3B,91,2022-10-11,02:47,85,"","Who Really Cares",2016-02-25,67,67,0,56,10,30,-7,C♯/D♭ Major,4,3IznIgmXtrUaoPWpQTy5jB,USCGH1682131
+72,"For the First Time","Mac DeMarco",76,4A,53,2022-10-11,03:02,83,"indie, lo-fi indie","This Old Dog",2017-05-05,55,30,1,52,0,10,-10,F Minor,4,2R4AlwtrrkMaRKojcTIzmL,QMMZN1701301
+73,"Valentine","Laufey",83,5B,20,2022-10-16,02:48,78,"","Everything I Know About Love",2022-08-26,47,92,0,22,0,10,-13,D#/E♭ Major,4,6cx5CvFhqN19efStehJqoW,GBKPL2280365
+74,"Vanished","Crystal Castles",120,5A,87,2022-10-17,04:02,6,"witch house, electroclash, new rave, alternative dance","Crystal Castles",2008-03-16,71,0,0,66,0,20,-7,C Minor,4,3gGMsx3jxYKfhXq8LMj1tz,CAL450896208
+75,"Thérèse","Maya Hawke",104,8A,35,2022-10-17,03:27,14,"","Thérèse",2022-06-29,62,95,1,36,0,10,-12,A Minor,3,1LklAGxyeK07JYRzw3Vzx9,USQE92100340
+76,"October Passed Me By","girl in red",78,9A,37,2022-10-19,02:45,61,"bedroom pop","October Passed Me By",2022-10-14,51,75,6,22,0,10,-13,E Minor,4,0AjcdGri5vhJsmZnduCEqd,USSM12209546
+77,"Bubble Gum","Clairo",208,11B,2,2022-10-20,02:55,74,"bedroom pop","Bubble Gum",2019-02-22,51,98,0,23,10,30,-25,A Major,3,3zksbXteOCeSusJ5Xltr3t,QMEZE1907824
+78,"Melting","Kali Uchis",115,4B,48,2022-10-26,03:28,43,"","Por Vida",2015-02-04,57,18,8,30,0,10,-8,G#/A♭ Major,4,2kSb3wYSOV996xA2NSmpck,QM8DG1400266
+79,"Cocaine Sunday","Eyedress",154,12B,77,2022-10-29,02:48,42,"","Sensitive G",2018-11-16,54,1,82,43,0,10,-6,E Major,4,5HzrX4aKVfb1NQCsaqf6R0,GBMYF1800060
+80,"16 Mirrors","Alex G",122,10B,30,2022-10-30,01:27,0,"","Trick",2012-11-05,56,63,0,5,0,10,-7,D Major,4,7syaFjOQnrUXPhMcHWJZUl,GBJET1400061
+81,"Goth","Sidewalks and Skeletons",115,3B,70,2022-11-01,03:27,76,"witch house, darkwave","White Light",2015-03-05,56,0,59,17,0,10,-9,C♯/D♭ Major,4,0uMZbmAAgOhdMrv25iPEH6,USCGH1585915
+82,"Heaven Knows I'm Miserable Now - 2011 Remaster","The Smiths",114,2B,76,2022-11-01,03:35,82,"new wave, madchester, jangle pop","Hatful of Hollow",1984-00-00,61,3,0,77,0,10,-5,F#/G♭ Major,4,1xaTREM89RbIxkcjlpf4Uw,GBCRL1100070
+83,"Sappho","Frankie Cosmos",95,9B,40,2022-11-01,01:52,52,"bedroom pop","Next Thing",2016-04-01,64,17,0,46,0,10,-7,G Major,4,5DIGt883aHs3KqWSziy4gR,QM6YT1601013
+84,"About You","The 1975",96,10B,76,2022-11-13,05:26,39,"","Being Funny In A Foreign Language",2022-10-14,42,31,80,46,0,0,-7,D Major,4,1fDFHXcykq4iw8Gg7s5hG9,GBK3W2202321
+85,"Scott Street","Phoebe Bridgers",135,6B,42,2022-11-26,05:05,78,"","Stranger in the Alps",2017-09-22,51,77,9,48,0,0,-10,A#/B♭ Major,4,6Uwi2Qk3H7fM4b4W4ExrAp,USJ5G1714205
+86,"I Know The End","Phoebe Bridgers",112,3B,32,2022-11-26,05:44,77,"","Punisher",2020-06-18,32,33,2,26,0,20,-10,C♯/D♭ Major,4,0pJW1Xw3aY4Eh6k5iuBkfI,USJ5G2020011
+87,"September","Sparky Deathcap",140,4B,33,2023-01-28,03:09,61,"","September",2009-00-00,59,90,0,50,0,10,-11,G#/A♭ Major,3,0xahPNJVFHGMEFxu9kergk,GBARL2300119
+88,"Sunday","The Cranberries",109,8B,56,2023-03-03,03:31,72,"","Everybody Else Is Doing It, So Why Can't We?",1993-03-01,33,6,0,17,0,10,-13,C Major,4,4zEvxRDaKDoFlHxK7Hy0wg,USIR29300081
+89,"Pretend","alex g online",116,11B,59,2023-03-14,06:02,23,"","High",2023-03-01,62,5,0,34,0,10,-6,A Major,4,2kcpSxuTS6RHbZ5HC7sVYm,QZES62342089
+90,"This Night Has Opened My Eyes - 2011 Remaster","The Smiths",100,10B,63,2023-03-24,03:41,59,"new wave, madchester, jangle pop","Louder Than Bombs",1987-00-00,70,0,43,70,0,20,-8,D Major,4,2Yf0HjCklkx54C4wQzhvzH,GBCAD1000139
+91,"Inside Out","Duster",79,11B,47,2023-04-13,02:21,73,"slowcore, shoegaze","Stratosphere",1998-02-24,55,84,97,65,0,10,-10,A Major,4,6WlmEymaXKMRs3D2c4j6os,US68F0505011
+92,"Harness Your Hopes - B-side","Pavement",108,10B,57,2023-04-27,03:26,74,"alternative rock, indie","Brighten the Corners: Nicene Creedence Ed.",2008-12-09,60,29,4,58,0,10,-8,D Major,4,4vsoWZcvtvSsE0OiVvDDvX,USMTD0880519
+93,"Forever","Alex G",85,11B,57,2023-04-29,02:29,65,"","Trick",2012-11-05,64,61,91,79,0,20,-9,A Major,4,0JuxBkSLot8GtQ1lC2QDGS,GBJET1400047
+94,"East Coast","alex g online",132,9B,29,2023-04-29,02:31,0,"","High",2023-03-01,70,90,67,52,0,10,-17,G Major,4,4ZLgL6hJ6xCgs96ay8onsJ,QZES62342080
+95,"(dream)","salvia palth",147,8B,30,2023-04-30,01:24,1,"slowcore, lo-fi indie","melanchole",2014-07-01,33,93,83,17,0,10,-13,C Major,4,39iczvfNkZstM8KY8dNDFC,GBSMU1456125
+96,"Impossible","Clairo",100,8B,62,2023-05-18,03:50,0,"bedroom pop","Immunity",2019-08-02,43,26,1,55,0,10,-12,C Major,4,71WT6kvVYlGba71B65JrH4,US4HB1900083
+97,"By The Way","Flora Rose",106,11B,46,2023-05-20,03:45,23,"","By the Way",2020-12-05,64,52,32,60,0,10,-13,A Major,4,3d25mr13EYGwvNTNi5hf3c,QZNWW2064309
+98,"I wait for you","Thedead",147,4B,42,2023-06-04,02:10,0,"","I wait for you",2023-04-10,54,94,0,35,0,10,-14,G#/A♭ Major,4,2j5Yvx1QdUj2QMkM7ZP7lV,QZHN82350177
+99,"Waiting Room","Phoebe Bridgers",130,10B,29,2023-06-07,06:33,78,"","Lost Ark Studio Compilation, Vol. 8",2016-08-12,53,34,0,12,0,10,-10,D Major,4,04mAOoQNsXmDJlyupJwmkO,QMCBW1400074
+100,"405","Gracie Abrams",142,8B,32,2023-06-17,03:01,56,"","Good Riddance (Deluxe)",2023-06-16,56,87,0,25,0,10,-13,C Major,4,10aiqU1b6yK8zm4jOnQsA7,USUG12202360
+101,"Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault)","Taylor Swift,Phoebe Bridgers",102,8B,38,2023-07-02,04:18,70,"","Red (Taylor's Version)",2021-11-12,61,82,0,45,0,10,-9,C Major,4,01K4zKU104LyJ8gMb7227B,USUG12103683
+102,"the lakes - bonus track","Taylor Swift",180,10B,26,2023-07-15,03:31,65,"","folklore (deluxe version)",2020-08-18,31,84,0,27,0,0,-12,D Major,4,0eFQWVz0qIxDOvhLpZ40P7,USUG12002851
+103,"Let The Light In (feat. Father John Misty)","Lana Del Rey,Father John Misty",132,11B,44,2023-07-15,04:38,78,"","Did you know that there's a tunnel under Ocean Blvd",2023-03-24,34,39,0,20,0,10,-10,A Major,4,4qG7hWhljsqqENL5PaLA2z,GBUM72206754
+104,"the way things go","beabadoobee",132,11B,51,2023-07-19,03:07,76,"bedroom pop","the way things go",2023-07-18,53,85,1,46,0,30,-8,A Major,4,5sA3i6SGkILMiZW6Fhx4wv,GBK3W2302683
+105,"I Know You","Faye Webster",155,6B,39,2023-07-20,04:11,77,"","Faye Webster",2017-05-12,45,29,0,14,0,0,-13,A#/B♭ Major,4,71BWZa1liIRyUiuJ3MB66o,QZ5VZ1600004
+106,"Cool About It","boygenius,Julien Baker,Phoebe Bridgers,Lucy Dacus",92,10B,21,2023-07-28,03:00,73,"ambient folk, ","the record",2023-03-31,52,90,0,40,0,10,-14,D Major,4,5PJH1U5Iie893v48Fl9yaC,USUG12209241
+107,"Lovewave","The 1-800",164,8A,86,2023-07-28,04:32,43,"","Lovewave",2019-01-09,44,0,2,66,0,20,-7,A Minor,4,2V9oL2oy2qkilBETQi6MFE,QZ4JJ1987055
+108,"Insomniac","Memo Boy,Chakra Efendi",130,10B,71,2023-07-29,03:32,74,"","Songs & Demos 2015-2017",2021-06-04,52,24,85,37,0,10,-9,D Major,4,2klj0StczYde6WUHBJo5F6,AUNUK1700026
+109,"Linger","The Cranberries",95,9B,43,2023-08-01,04:34,87,"","Everybody Else Is Doing It, So Why Can't We?",1993-03-01,44,8,0,20,0,10,-15,G Major,4,0gEyKnHvgkrkBM6fbeHdwK,USIR29300085
+110,"Blue Hair","TV Girl",136,12B,72,2023-08-02,03:37,84,"","Death of a Party Girl",2018-05-08,75,55,5,88,0,20,-6,E Major,4,39sDitIeCMrVX2QyXHY46t,USDY41861506
+111,"Resonance","Home",170,4B,74,2023-08-02,03:32,0,"vaporwave, synthwave, chillwave","Odyssey",2014-07-01,57,4,85,36,0,20,-9,G#/A♭ Major,5,10cBpoAnh6wMAO2ujxHQUz,QM4DW1607618
+112,"Oblivion","Grimes",156,10B,53,2023-08-02,04:11,72,"art pop","Visions",2012-03-12,70,12,90,49,0,0,-9,D Major,4,4BY4V1T0RJK1HmD2Q0ClyK,CA21O1200003
+113,"Hearing Damage","Thom Yorke",116,3B,86,2023-08-02,05:03,67,"","Hearing Damage",2009-10-01,63,5,85,13,0,10,-6,C♯/D♭ Major,4,1fTtPH0xGwFOXM5VlkxOX1,USAT20903254
+114,"Keep on Loving You","Cigarettes After Sex",73,7A,37,2023-08-02,03:53,1,"dream pop","Affection",2015-01-01,45,53,96,12,0,10,-9,D Minor,4,5VYBergVrUDcb8QyEg70cF,TCACJ1596832
+115,"There She Goes","The La's",123,9B,76,2023-08-02,02:42,73,"britpop, jangle pop","The La's",1990-00-00,53,1,83,92,0,20,-11,G Major,4,4c6vZqYHFur11FbWATIJ9P,GBAQT8800001
+116,"New Flesh","Current Joys",166,11B,59,2023-08-02,02:47,1,"lo-fi indie","Wild Heart",2013-01-02,62,89,50,70,0,0,-16,A Major,4,6HJxxqHWMdidwTVZmZWeHU,TCACS1660968
+117,"Romantic Lover","Eyedress",184,8A,45,2023-08-02,01:26,51,"","Let's Skip to the Wedding",2020-08-07,66,70,92,54,0,20,-9,A Minor,4,7s5VQqrjBtrBgZL4pEa46S,GBMYF2000011
+118,"Kiss Me","Sixpence None The Richer",100,5B,75,2023-08-02,03:28,86,"","Sixpence None The Richer",1997-11-22,53,2,0,42,0,0,-7,D#/E♭ Major,4,754kgU5rWscRTfvlsuEwFp,USEE19900312
+119,"Ultraviolence","Lana Del Rey",79,8B,54,2023-08-02,04:11,81,"","Ultraviolence (Deluxe)",2014-01-01,14,28,0,9,0,10,-7,C Major,3,1y3r6RXiJZNBV1EI0NggpS,GBUM71402015
+120,"The Gold - Phoebe Bridgers Version","Manchester Orchestra,Phoebe Bridgers",158,6B,40,2023-08-02,03:53,71,"","The Gold (Phoebe Bridgers Version)",2018-07-13,30,82,0,30,0,10,-12,A#/B♭ Major,3,7qcXUzPwoxSBFxjTbNrV0B,USJ5G1818101
+121,"Good Looking","Suki Waterhouse",150,12B,55,2023-08-02,03:34,24,"","Good Looking",2022-08-18,37,8,0,26,0,10,-9,E Major,3,0j3mqDTK4Z6lvrLzFCUUz6,QZ9Y21712533
+122,"Sometimes (Backwood)","Gigi Perez",105,5B,17,2023-08-02,02:33,69,"","Sometimes (Backwood)",2021-02-05,41,77,0,7,0,10,-11,D#/E♭ Major,4,1ElGmhauttS9p7LwmHG9uM,QZQAY2178612
+123,"Agony","Yung Lean",100,1B,17,2023-08-02,03:34,65,"cloud rap","Stranger",2017-11-10,59,94,1,32,0,10,-17,B Major,4,2xxjQg2hh2Rjm7EY9OhZXY,SE5AJ1600381
+124,"Habits","Genevieve Stokes",82,11B,29,2023-08-02,02:14,65,"","Habits (Demo)",2022-09-16,67,87,0,48,0,30,-10,A Major,4,0qL3JquOSa7ErWX3RXfUgo,USAT22210856
+125,"Girl of My Dreams","Guti",139,6B,34,2023-08-02,03:42,0,"","Girl of My Dreams",2019-12-14,57,79,40,5,0,0,-16,A#/B♭ Major,4,5ERQFMCgW9JO5EWqwWGpmO,TCAEO1957086
+126,"Sad Girl","Lana Del Rey",119,7B,59,2023-08-02,05:17,80,"","Ultraviolence (Deluxe)",2014-01-01,35,54,7,26,0,10,-8,F Major,4,11MyiSGZSYSmhhqwGUTtAq,GBUM71402107
+127,"Sad Beautiful Tragic (Taylor's Version)","Taylor Swift",130,9B,41,2023-08-02,04:44,64,"","Red (Taylor's Version)",2021-11-12,60,62,0,23,0,10,-12,G Major,3,73qMN9bXy7MSPwwGfH3wQr,USUG12103672
+128,"Mary","Alex G",106,9A,47,2023-08-02,03:17,72,"","Trick",2012-11-05,69,5,45,40,0,10,-10,E Minor,4,36TbBJ7mLPOZMAYs0p4mxb,GBJET1400056
+129,"Sarah","Alex G",124,9A,69,2023-08-02,02:56,72,"","Trick",2012-11-05,65,51,0,50,0,10,-5,E Minor,4,2Wk8vEamlVBBalBi24NnU1,GBJET1400060
+130,"Diet Mountain Dew","Lana Del Rey",88,3A,70,2023-08-02,03:42,79,"","Born To Die - The Paradise Edition",2012-01-01,60,28,0,53,0,40,-6,A#/B♭ Minor,4,2vtmY2mSccRzKGjtcHSzI3,GBUM71111528
+131,"snowfall","Øneheart,reidenshi",95,6B,9,2023-08-02,02:04,83,"dark ambient, ambient","snowfall",2022-01-14,47,93,80,8,0,40,-27,A#/B♭ Major,4,4xF4ZBGPZKxECeDFrqSAG4,QM3DF2191341
+132,"West Coast","Lana Del Rey",123,11A,59,2023-08-02,04:16,84,"","Ultraviolence (Deluxe)",2014-01-01,53,19,2,46,0,0,-8,F#/G♭ Minor,4,5Y6nVaayzitvsD5F7nr3DV,GBUM71402081
+133,"Kids","Current Joys",113,2B,66,2023-08-02,04:29,3,"lo-fi indie","Kids",2015-03-08,83,51,40,90,0,0,-10,F#/G♭ Major,4,3pyyGVqWvRMq43qtJBzxe0,TCACS1677524
+134,"Wash.","Bon Iver",163,8B,15,2023-08-02,04:58,0,"","Bon Iver",2011-06-20,31,99,34,32,0,0,-19,C Major,3,2dW05vYi45Fd65qGrVzPEB,US38Y1113507
+135,"Jealous","Eyedress",93,8A,92,2023-08-02,02:02,34,"","Let's Skip to the Wedding",2020-08-07,47,0,85,70,0,40,-10,A Minor,4,0AKS1WVEOUSYa3D2ZyOJvM,GBMYF1900115
+136,"In My Head","Bedroom",151,11B,61,2023-08-02,05:54,69,"","In My Head",2013-01-04,58,17,92,18,0,10,-14,A Major,4,5vwXQUwkpmnkJrfv69L6Mp,QZ4JJ1725439
+137,"My Kind of Woman","Mac DeMarco",92,11A,77,2023-08-02,03:10,83,"indie, lo-fi indie","2",2012-10-16,50,0,49,46,0,10,-7,F#/G♭ Minor,4,6jgkEbmQ2F2onEqsEhiliL,QMMZN1200053
+138,"Rosyln","Bon Iver,St. Vincent",160,3A,28,2023-08-02,04:49,76,"art pop","The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",2009-10-16,33,97,2,12,0,10,-13,A#/B♭ Minor,3,4k7x3QKrc3h3U0Viqk0uop,USAT20903243
+139,"F Song","Strawberry Guy",81,5A,51,2023-08-02,03:44,68,"bedroom pop","F Song",2018-08-09,24,41,28,23,0,30,-11,C Minor,4,4z9KVNX4hmk672SJfhtQNz,TCADT1853143
+140,"we fell in love in october","girl in red",130,9B,37,2023-08-02,03:04,85,"bedroom pop","we fell in love in october / October Passed Me By",2018-11-21,57,11,18,24,0,10,-13,G Major,4,6IPwKM3fUUzlElbvKw2sKl,GBKPL1828677
+141,"Dark Red","Steve Lacy",172,2B,78,2023-08-02,02:53,86,"","Dark Red",2017-02-20,60,45,0,77,0,10,-4,F#/G♭ Major,4,3EaJDYHA0KnX88JvDhL9oa,GBKPL1778015
+142,"Stargirl Interlude","The Weeknd,Lana Del Rey",180,4A,47,2023-08-02,01:51,74,"","Starboy",2016-11-25,64,35,19,44,10,10,-13,F Minor,4,4EDijkJdHBZZ0GwJ12iTAj,USUG11601002
+143,"Duvet","bôa",93,10A,89,2023-08-02,03:23,86,"","Twilight",2001-03-21,58,19,0,71,0,0,-9,B Minor,4,42qNWdLKCI41S4uzfamhFM,USCGJ0659337
+144,"Stars Will Fall","Duster",96,11B,13,2023-08-02,01:58,51,"slowcore, shoegaze","Transmission, Flux",1997-01-01,43,94,97,7,0,10,-13,A Major,4,7ew0k5ai5E0TkUnjdu7sm6,USCW61921005
+145,"A Different Age","Current Joys",144,10B,37,2023-08-02,06:52,0,"lo-fi indie","A Different Age",2018-03-02,63,64,7,36,0,0,-11,D Major,4,5iMXCDWA4FxPNcOnq0HrpJ,QMBZ91743923
+146,"Matilda","Harry Styles",114,10B,29,2023-08-02,04:05,83,"","Harry's House",2022-05-20,51,90,0,39,0,10,-10,D Major,4,6uvh0In7u1Xn4HgxOfAn8O,USSM12200615
+147,"Beach Baby","Bon Iver",114,8B,8,2023-08-02,02:40,70,"","Blood Bank",2009-01-20,67,98,41,9,0,10,-17,C Major,3,2LXtyj95dK56ENS1QLt4IB,US38Y0913402
+148,"Starman - 2012 Remaster","David Bowie",100,7B,45,2023-08-02,04:14,81,"glam rock, art rock","The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",1972-06-06,49,17,0,55,0,50,-10,F Major,4,0pQskrTITgmCMyr85tb9qq,USJT11200004
+149,"One More Light","Linkin Park",84,4B,20,2023-08-02,04:15,78,"nu metal, rap metal, rock, alternative metal","One More Light",2017-05-19,59,90,0,17,0,0,-11,G#/A♭ Major,4,3xXBsjrbG1xQIm1xv1cKOt,USWB11700225
+150,"What Would I Do?","Strawberry Guy",129,1B,46,2023-08-02,03:54,73,"bedroom pop","What Would I Do?",2019-07-22,54,46,90,44,0,0,-8,B Major,4,5EJA7Rwkeuvm98CZg0XXNO,TCADX1837626
+151,"seven","Taylor Swift",95,12B,49,2023-08-03,03:28,68,"","folklore",2020-07-24,60,90,0,42,0,0,-11,E Major,4,6KJqZcs9XDgVck7Lg9QOTC,USUG12002841
+152,"gold rush","Taylor Swift",112,11B,46,2023-08-05,03:05,65,"","evermore",2020-12-11,51,83,17,35,0,10,-10,A Major,4,5BK0uqwY9DNfZ630STAEaq,USUG12004702
+153,"Dreams - 2004 Remaster","Fleetwood Mac",120,8B,49,2023-09-04,04:17,91,"yacht rock, classic rock, soft rock","Rumours (Super Deluxe)",1977-02-04,83,6,0,79,0,10,-10,C Major,4,0ofHAoxe9vBkTCp2UQIavz,USWB11301111
+154,"Salvatore","Lana Del Rey",118,10A,31,2023-08-09,04:41,82,"","Honeymoon",2015-09-18,30,68,0,12,0,10,-10,B Minor,4,21qg0IBZf8R12qHd9A3AA4,GBUM71503927
+155,"Flowers In December","Mazzy Star",97,9B,23,2023-08-15,04:57,53,"dream pop, shoegaze, slowcore","Among My Swan",1996-10-29,59,12,0,17,0,0,-13,G Major,4,0G6Ws8Gbdt0S7pZeuYmkmm,USCA29600652
+156,"willow","Taylor Swift",81,9B,57,2023-08-15,03:34,74,"","evermore",2020-12-11,39,83,0,53,10,10,-9,G Major,4,0lx2cLdOt3piJbcaXIV74f,USUG12004699
+157,"Lover, You Should've Come Over","Jeff Buckley",119,10B,60,2023-08-15,06:44,85,"","Grace",1994-00-00,39,36,0,15,0,10,-6,D Major,3,6Jv7kjGkhY2fT4yuBF3aTz,USSM19400916
+158,"The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version)","Taylor Swift,Gary Lightbody",94,10B,53,2023-08-16,04:59,67,"","Red (Taylor's Version)",2021-11-12,50,4,0,16,0,10,-6,D Major,4,0y6kdSRCVQhSsHSpWvTUm7,USUG12103670
+159,"Birds Dont Sing","TV Girl",107,9B,94,2023-08-16,03:29,73,"","French Exit",2014-06-05,61,2,0,80,0,10,-5,G Major,4,21LkHnuxPxVrOZ5gCaG7aM,USHM21438136
+160,"Right Side of My Neck","Faye Webster",117,3B,52,2023-08-19,02:33,72,"","Atlanta Millionaires Club",2019-05-24,72,0,0,32,0,30,-9,C♯/D♭ Major,4,3cxZT78mZDyLsLPJKcTu3U,US38W1937602
+161,"All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)","Taylor Swift",93,8B,52,2023-08-19,10:13,82,"","Red (Taylor's Version)",2021-11-12,63,27,0,21,0,0,-9,C Major,4,5enxwA8aAbwZbf5qCHORXi,USUG12103690
+162,"Born To Die","Lana Del Rey",86,9A,63,2023-08-19,04:45,80,"","Born To Die - The Paradise Edition",2012-01-01,43,22,0,38,0,20,-7,E Minor,4,4Ouhoi2lAhrLJKFzUqEzwl,GBUM71111120
+163,"Show Me How","Men I Trust",166,7B,27,2023-08-19,03:35,2,"bedroom pop, indie pop","Show Me How",2018-02-28,79,67,53,54,0,10,-12,F Major,4,01TyFEZu6mHbffsVfxgrFn,TCADM1873570
+164,"Enjoy the Silence","Depeche Mode",113,5A,84,2023-08-19,04:15,77,"new wave, synthpop, darkwave","The Singles 86-98",1998-09-28,66,20,0,75,0,0,-6,C Minor,4,6WK9dVrRABMkUXFLNlgWFh,GBAJH9800146
+165,"Thank You","Dido",80,12A,58,2023-08-19,03:38,80,"","No Angel",1999-00-00,73,30,0,76,0,0,-10,C♯/D♭ Minor,4,3yUcJwYu7fXAfqMj9krY6l,USAR19900870
+166,"the last great american dynasty","Taylor Swift",148,9B,66,2023-08-21,03:50,67,"","folklore",2020-07-24,69,47,0,71,0,10,-9,G Major,4,2Eeur20xVqfUoM3Q7EFPFt,USUG12002837
+167,"Sandy","Alex G",170,10B,34,2023-08-21,02:40,54,"","Rules",2012-01-15,45,95,93,20,0,10,-16,D Major,3,27wye0f2yKQC3Lzb5Sf37K,GBJET1400073
+168,"Did you know that there's a tunnel under Ocean Blvd","Lana Del Rey",120,8B,33,2023-08-21,04:45,70,"","Did you know that there's a tunnel under Ocean Blvd",2023-03-24,44,75,2,5,0,10,-9,C Major,4,0HEzuLLojblUOaUSdmJ9gl,GBUM72206756
+169,"Where You Lead I Will Follow","Carole King",107,8B,74,2023-08-26,03:27,57,"singer-songwriter, folk rock","Love Makes the World",2001-09-25,73,36,0,70,0,0,-7,C Major,4,5htNlXFlMI6RMBHhJuGJJm,USRG20210201
+170,"For Emma","Bon Iver",111,9A,61,2023-08-28,03:40,71,"","For Emma, Forever Ago",2008-02-19,67,49,18,57,0,10,-11,E Minor,4,2nilAlGEZmwyaLTMMyDdLo,US38Y0811508
+171,"Halloween","Phoebe Bridgers",122,3B,16,2023-08-28,04:31,58,"","Punisher",2020-06-18,49,94,10,37,0,10,-19,C♯/D♭ Major,4,2GDxR0ZGYqDQUElSQxBiNS,USJ5G2020005
+172,"Funeral","Phoebe Bridgers",171,1B,26,2023-08-29,03:52,71,"","Stranger in the Alps",2017-09-22,22,95,0,31,0,0,-14,B Major,4,3rJDsZjIaCfJQSqRUvl0BM,USJ5G1714203
+173,"Georgia","Phoebe Bridgers",102,10B,44,2023-08-29,04:07,61,"","Stranger in the Alps",2017-09-22,48,87,1,29,0,10,-12,D Major,4,5YTJXAM6j8jEQ5vC8Q67GL,USJ5G1714207
+174,"Chelsea","Phoebe Bridgers",128,1B,19,2023-08-29,04:42,53,"","Stranger in the Alps",2017-09-22,39,97,0,23,0,10,-15,B Major,4,1Jrj7xw5OSgGhprGHlHDfX,USJ5G1714208
+175,"this is me trying","Taylor Swift",136,11B,48,2023-08-29,03:15,75,"","folklore",2020-07-24,52,31,0,41,0,10,-10,A Major,4,7kt9e9LFSpN1zQtYEl19o1,USUG12002843
+176,"illicit affairs","Taylor Swift",120,6B,31,2023-08-29,03:10,75,"","folklore",2020-07-24,56,88,0,46,0,10,-10,A#/B♭ Major,4,2NmsngXHeC1GQ9wWrzhOMf,USUG12002844
+177,"invisible string","Taylor Swift",83,9A,45,2023-08-29,04:12,74,"","folklore",2020-07-24,65,84,0,45,0,10,-11,E Minor,4,6VsvKPJ4xjVNKpI8VVZ3SV,USUG12002845
+178,"mad woman","Taylor Swift",142,5B,70,2023-10-17,03:57,63,"","folklore",2020-07-24,59,66,0,51,0,10,-9,D#/E♭ Major,4,2QDyYdZyhlP2fp79KZX8Bi,USUG12002846
+179,"champagne problems","Taylor Swift",171,8B,24,2023-08-29,04:04,74,"","evermore",2020-12-11,46,92,0,32,0,10,-12,C Major,4,0sY6ZUTh4yoctD8VIXz339,USUG12004700
+180,"‘tis the damn season","Taylor Swift",146,7B,43,2023-08-29,03:49,62,"","evermore",2020-12-11,57,74,0,35,0,10,-8,F Major,4,7dW84mWkdWE5a6lFWxJCBG,USUG12004704
+181,"no body, no crime (feat. HAIM)","Taylor Swift,HAIM",79,6A,61,2023-08-29,03:35,62,"","evermore",2020-12-11,55,42,0,54,0,10,-8,G Minor,4,3RaT22zZsxVYxxKR7TAaYF,USUG12004707
+182,"coney island (feat. The National)","Taylor Swift,The National",108,4B,54,2023-08-29,04:35,58,"indie rock","evermore",2020-12-11,54,82,0,29,0,10,-11,G#/A♭ Major,4,3k7ne7VmH43ZPWxPdvPUgR,USUG12004711
+183,"ivy","Taylor Swift",89,10B,55,2023-08-29,04:20,64,"","evermore",2020-12-11,52,86,0,54,0,0,-9,D Major,4,19CSr8rwW05VJL2F91KFNK,USUG12004712
+184,"long story short","Taylor Swift",158,8B,73,2023-08-29,03:35,59,"","evermore",2020-12-11,55,66,18,57,0,10,-8,C Major,4,2o2sgVJIgFXk8GQjWTgI6U,USUG12004716
+185,"Bambi","Clairo",84,11B,20,2023-08-29,04:37,58,"bedroom pop","Sling",2021-07-16,44,90,0,28,0,10,-15,A Major,4,6wQXjA6KWbwPT3ydQCsJ4P,USUG12101890
+186,"Zinnias","Clairo",146,8B,42,2023-09-18,02:54,50,"bedroom pop","Sling",2021-07-16,70,67,1,78,0,30,-13,C Major,4,67bSS4aLrasUNp3EQjdHTT,USUG12101893
+187,"Blouse","Clairo",145,9B,12,2023-08-29,03:15,55,"bedroom pop","Sling",2021-07-16,32,95,0,40,0,10,-20,G Major,3,7brBeAX3RT0CMh3qbTBrIP,USUG12101894
+188,"Treacherous (Taylor's Version)","Taylor Swift",110,10B,59,2023-08-29,04:02,64,"","Red (Taylor's Version)",2021-11-12,65,3,0,30,0,10,-7,D Major,4,3S7HNKPakdwNEBFIVTL6dZ,USUG12103663
+189,"Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version)","Taylor Swift,Ed Sheeran",80,2B,61,2023-08-29,04:05,72,"soft pop","Red (Taylor's Version)",2021-11-12,50,27,0,47,0,20,-5,F#/G♭ Major,4,7qEUFOVcxRI19tbT68JcYK,USUG12103674
+190,"Talk to Strangers","TV Girl",187,2A,58,2023-08-29,02:57,57,"","French Exit",2014-06-05,37,97,95,74,0,10,-10,D#/E♭ Minor,4,2SXG2Vmtn4S1lsbQkuWKBS,USHM21438140
+191,"Louise","TV Girl",116,8B,92,2023-08-29,03:14,74,"","French Exit",2014-06-05,73,17,1,92,0,30,-5,C Major,4,263KsGZODTZouh3RFGNaLX,USHM21438137
+192,"Sweet Creature","Harry Styles",104,9B,26,2023-08-29,03:44,72,"","Harry Styles",2017-05-12,43,75,0,23,0,0,-9,G Major,4,5kRPPEWFJIMox5qIkQkiz5,USSM11703956
+193,"From the Dining Table","Harry Styles",94,4B,16,2023-08-29,03:31,71,"","Harry Styles",2017-05-12,67,80,5,20,0,10,-16,G#/A♭ Major,4,1IF5UcqRO42D12vYwceOY6,USSM11703961
+194,"Pretty When You Cry","Lana Del Rey",109,3A,55,2023-08-29,03:54,78,"","Ultraviolence (Deluxe)",2014-01-01,51,40,0,20,0,20,-7,A#/B♭ Minor,4,6PnluwP0fjGnpIBsqTdUTq,GBUM71402191
+195,"Twilight","bôa",187,10A,83,2023-08-29,03:48,72,"","Twilight",2001-03-21,39,16,0,38,10,10,-8,B Minor,4,6d67Xv8ms2noA8wWFLiPDN,USCGJ0659338
+196,"16 Mirrors","Alex G",122,10B,30,2023-08-29,01:27,66,"","Trick",2012-11-05,56,64,0,5,0,10,-7,D Major,4,2rzuxlqPCWCKRCsSZgM66u,GBJET1400061
+197,"Garden Song","Phoebe Bridgers",100,8B,27,2023-08-29,03:39,64,"","Punisher",2020-06-18,43,86,1,17,10,10,-17,C Major,4,5bIgzvxvlefRUCQK9JPocF,USJ5G2020002
+198,"Punisher","Phoebe Bridgers",84,3B,23,2023-08-29,03:09,63,"","Punisher",2020-06-18,32,99,0,22,0,10,-13,C♯/D♭ Major,4,5LJ4ig9cMvjui3li1mrNRl,USJ5G2020004
+199,"Moon Song","Phoebe Bridgers",155,3B,24,2023-08-29,04:37,70,"","Punisher",2020-06-18,34,87,0,18,0,10,-13,C♯/D♭ Major,3,46RNrAkGsqWTDrv2ZPOAbx,USJ5G2020007
+200,"Savior Complex","Phoebe Bridgers",129,12B,44,2023-08-29,04:01,66,"","Punisher",2020-06-18,38,93,2,22,0,10,-12,E Major,3,5BN59BDczcpxstFKILIH0q,USJ5G2020008
+201,"ICU","Phoebe Bridgers",134,10B,65,2023-08-29,03:10,62,"","Punisher",2020-06-18,51,42,1,40,0,10,-8,D Major,4,0Jm0RTOlF7DsbQ689QclaF,USJ5G2020009
+202,"Graceland Too","Phoebe Bridgers",150,6B,34,2023-08-29,03:56,67,"","Punisher",2020-06-18,45,87,0,35,0,10,-10,A#/B♭ Major,4,1WCjhRs2WBgyeGaybCX2Po,USJ5G2020010
+203,"Art Class","beabadoobee",90,5B,29,2023-08-29,04:07,52,"bedroom pop","Patched Up",2018-12-07,33,93,0,42,0,10,-9,D#/E♭ Major,4,5R4u3LgAC2BNkxo0bKQmS5,GBK3W1800912
+204,"ゆめうつつ","Lamp",93,10B,13,2023-08-29,05:15,67,"shibuya-kei, japanese indie, city pop","ランプ幻想",2008-12-03,35,99,46,8,0,0,-17,D Major,4,1GTC0DN9LGOdP0NdvoHyX7,JPG100800130
+205,"Watching Him Fade Away","Mac DeMarco",139,5B,7,2023-08-30,02:23,73,"indie, lo-fi indie","This Old Dog",2017-05-05,74,98,1,30,0,10,-18,D#/E♭ Major,4,2QzKAF0y1BQhxwg8N05Uog,QMMZN1701310
+206,"evermore (feat. Bon Iver)","Taylor Swift,Bon Iver",125,3B,27,2023-08-30,05:04,61,"","evermore",2020-12-11,39,94,0,32,0,10,-11,C♯/D♭ Major,5,3O5osWf1rSoKMwe6E9ZaXP,USUG12004719
+207,"Zinnias","Clairo",146,8B,42,2023-09-18,02:54,50,"bedroom pop","Sling",2021-07-16,70,67,1,78,0,30,-13,C Major,4,67bSS4aLrasUNp3EQjdHTT,USUG12101893
+208,"Everywhere","Fleetwood Mac",115,12B,54,2023-08-30,03:42,71,"yacht rock, classic rock, soft rock","Greatest Hits",1988-11-21,69,22,1,76,0,10,-11,E Major,4,1prZ0pr6XoRCxcrC3MCL0M,USWB19900202
+209,"Race","Alex G",172,11B,64,2023-09-01,03:43,0,"","Race",2010-01-01,23,2,0,11,0,10,-6,A Major,4,78bcWFqyuhOrC8wnkpgcft,TCAFK2136051
+210,"Falling Behind","Laufey",166,9B,35,2023-09-01,02:53,82,"","Everything I Know About Love",2022-08-26,45,94,8,55,0,10,-13,G Major,4,4KGGeE7RJsgLNZmnxGFlOj,GBKPL2298396
+211,"Asleep - 2011 Remaster","The Smiths",115,8B,26,2023-09-02,04:13,67,"new wave, madchester, jangle pop","Louder Than Bombs",1987-00-00,51,88,53,22,0,10,-16,C Major,3,7LZgdL0MxiElfaKZbuuE4l,GBCRL1100079
+212,"State Of Grace (Acoustic Version) (Taylor's Version)","Taylor Swift",209,9B,13,2023-09-02,05:21,60,"","Red (Taylor's Version)",2021-11-12,45,66,0,10,0,10,-14,G Major,3,5jAIouBES8LWMiriuNq170,USUG12103680
+213,"From The Start","Laufey",82,3B,41,2023-09-03,02:49,74,"","From The Start",2023-05-11,66,88,0,74,0,10,-7,C♯/D♭ Major,3,1Ukxccao1BlWrPhYkcXbwZ,QM6N22309399
+214,"Bewitched","Laufey",139,3B,20,2023-09-03,04:06,0,"","Bewitched",2023-07-26,28,95,0,32,0,10,-12,C♯/D♭ Major,3,6GNmllEUoNK0rxAmthPEQf,QM6P42387635
+215,"Dreams - 2004 Remaster","Fleetwood Mac",120,8B,49,2023-09-04,04:17,91,"yacht rock, classic rock, soft rock","Rumours (Super Deluxe)",1977-02-04,83,6,0,79,0,10,-10,C Major,4,0ofHAoxe9vBkTCp2UQIavz,USWB11301111
+216,"tolerate it","Taylor Swift",75,11B,36,2023-09-05,04:05,70,"","evermore",2020-12-11,32,88,0,22,0,0,-10,A Major,5,0PurA4JVJ8YQgSVopY8fn6,USUG12004705
+217,"betty","Taylor Swift",96,8B,38,2023-09-05,04:54,68,"","folklore",2020-07-24,59,60,0,50,0,10,-9,C Major,4,5kI4eCXXzyuIUXjQra0Cxi,USUG12002848
+218,"the 1","Taylor Swift",140,8B,36,2023-09-05,03:30,65,"","folklore (deluxe version)",2020-08-18,78,75,0,16,0,10,-7,C Major,4,4pfrrhvplbJZAIsfosGWQP,USUG12002835
+219,"willow","Taylor Swift",81,9B,57,2023-09-05,03:34,65,"","evermore (deluxe version)",2021-01-07,39,83,0,53,10,10,-9,G Major,4,2gVhfX2Gy1T9kDuS9azrF7,USUG12004699
+220,"no body, no crime (feat. HAIM)","Taylor Swift,HAIM",79,6A,61,2023-09-05,03:35,62,"","evermore (deluxe version)",2021-01-07,55,42,0,54,0,10,-8,G Minor,4,6uwfVkaOM1mcMkFmSn35ix,USUG12004707
+221,"seven","Taylor Swift",95,12B,49,2023-09-05,03:28,63,"","folklore (deluxe version)",2020-08-18,60,89,0,37,0,0,-11,E Major,4,76mOLcXOjOEhyY4mMF1l3r,USUG12002841
+222,"dorothea","Taylor Swift",120,12B,49,2023-09-05,03:45,61,"","evermore (deluxe version)",2021-01-07,61,70,0,35,0,10,-8,E Major,4,66tOfHVH3aUrscg8vExRV4,USUG12004710
+223,"From The Start","Laufey",81,3B,34,2023-09-08,02:49,88,"","Bewitched",2023-09-08,55,89,0,83,0,10,-10,C♯/D♭ Major,4,43iIQbw5hx986dUEZbr3eN,QMDA62312093
+224,"pretty isn’t pretty","Olivia Rodrigo",124,10B,85,2023-09-11,03:19,78,"","GUTS",2023-09-08,56,0,0,57,0,0,-4,D Major,4,6W9l02gRsXVxzIuQC1oc1X,USUG12305002
+225,"Skinny Love","Bon Iver",76,9A,26,2023-09-15,03:58,0,"","For Emma, Forever Ago",2008-05-12,59,84,0,10,0,0,-14,E Minor,4,1HkOPLwAJH3kE8UnqgxF4s,US38Y0811503
+226,"ceilings","Lizzy McAlpine",148,11B,32,2023-09-15,03:02,81,"","five seconds flat",2022-04-08,52,47,0,26,0,20,-12,A Major,3,2L9N0zZnd37dwF0clgxMGI,GBKPL2280163
+227,"I miss you, I’m sorry","Gracie Abrams",110,9B,46,2023-09-15,02:47,82,"","minor",2020-07-14,45,73,0,15,0,10,-6,G Major,5,4nyF5lmSziBAt7ESAUjpbx,USUG11903591
+228,"Unreflected","Mazzy Star",151,9B,44,2023-09-15,03:42,46,"dream pop, shoegaze, slowcore","So Tonight That I Might See",1993-10-05,60,33,1,7,0,0,-16,G Major,4,2Wy57u9egS9hpXtDGnzi8A,USCA29300473
+229,"Zinnias","Clairo",146,8B,42,2023-09-18,02:54,50,"bedroom pop","Sling",2021-07-16,70,67,1,78,0,30,-13,C Major,4,67bSS4aLrasUNp3EQjdHTT,USUG12101893
+230,"Hurts Me Too","Faye Webster",96,7B,30,2023-09-24,03:21,65,"","Atlanta Millionaires Club",2019-05-24,46,11,26,12,0,0,-11,F Major,3,0uphGVj1uIticJK6gb2WnO,US38W1937603
+231,"Take on Me","a-ha",84,11A,90,2023-09-25,03:45,88,"new wave, synthpop","Hunting High and Low",1985-06-01,57,2,0,88,0,0,-8,F#/G♭ Minor,4,2WfaOiMkCvy7F5fcp2zZ8L,USWB19901214
+232,"It Almost Worked","TV Girl",141,11B,89,2023-09-26,02:32,80,"","The Night in Question: French Exit Outtakes",2020-05-01,67,30,35,68,0,0,-4,A Major,4,4NUhcsz9E1LrBe8nXLZqzp,USDY42073308
+233,"Sweet Nothing","Taylor Swift",176,8B,16,2023-09-26,03:08,68,"","Midnights",2022-10-21,34,97,0,41,0,10,-15,C Major,4,0wavGRldH0AWyu2zvTz8zb,USUG12205718
+234,"Labyrinth","Taylor Swift",110,8B,30,2023-09-26,04:07,57,"","Midnights (3am Edition)",2022-10-22,48,80,33,13,0,10,-16,C Major,4,43q586vP8gGkYypKoSddhl,USUG12205716
+235,"Dear Reader","Taylor Swift",108,8B,39,2023-09-26,03:45,61,"","Midnights (3am Edition)",2022-10-22,67,46,0,15,0,10,-12,C Major,4,3QF5RsWzK1lCvf2o2cY65P,USUG12207557
+236,"Half a Person - 2011 Remaster","The Smiths",121,11A,73,2023-09-30,03:38,67,"new wave, madchester, jangle pop","Louder Than Bombs",1987-00-00,61,3,0,61,0,0,-9,F#/G♭ Minor,4,3ccAZx3wLZDVB2Nq6rikf9,GBCRL1100081
+237,"lacy","Olivia Rodrigo",78,5B,37,2023-09-30,02:57,82,"","GUTS",2023-09-08,40,82,0,43,0,10,-8,D#/E♭ Major,4,6QT6j7rKt7Vk3IuV2AUO9W,USUG12304095
+238,"A Sunday Kind Of Love","Etta James",86,7A,28,2023-09-30,03:16,71,"soul, soul blues, blues, vocal jazz","At Last!",1960-00-00,42,83,0,40,0,20,-9,D Minor,4,0zGLlXbHlrAyBN1x6sY0rb,USMC16046321
+239,"My Love Mine All Mine","Mitski",114,11B,31,2023-09-30,02:17,87,"","The Land Is Inhospitable and So Are We",2023-09-15,50,87,14,12,0,10,-15,A Major,4,3vkCueOmm7xQDoJ17W1Pm3,USJ5G2335007
+240,"Sesame Syrup","Cigarettes After Sex",94,12B,41,2023-10-01,05:03,1,"dream pop","Crush",2018-07-09,42,4,38,35,0,10,-11,E Major,4,53k1gKFpKrDbktUzrB80f0,USBQU1800094
+241,"This Charming Man - 2011 Remaster","The Smiths",104,1B,85,2023-10-03,02:42,80,"new wave, madchester, jangle pop","The Smiths",1984-02-20,61,1,0,75,0,0,-6,B Major,4,1FvDJ9KGxcqwv1utyPL3JZ,GBCRL1100240
+242,"Fine Line","Harry Styles",121,10B,35,2023-10-03,06:17,80,"","Fine Line",2019-12-13,31,17,0,5,0,0,-9,D Major,4,6VzcQuzTNTMFnJ6rBSaLH9,USSM11912596
+243,"Vienna","Billy Joel",125,6B,50,2023-10-03,03:34,84,"soft rock","The Stranger (Legacy Edition)",1977-00-00,53,66,0,31,0,0,-7,A#/B♭ Major,4,4U45aEWtQhrm8A5mxPaFZ7,USSM17700373
+244,"Sweet","Lana Del Rey",136,8B,24,2023-10-04,03:35,62,"","Did you know that there's a tunnel under Ocean Blvd",2023-03-24,31,96,0,7,0,10,-12,C Major,3,6x8g6DxglrzCSwKhv2Q1ee,GBUM72206753
+245,"Candy Necklace (feat. Jon Batiste)","Lana Del Rey,Jon Batiste",60,10A,14,2023-10-04,05:14,60,"","Did you know that there's a tunnel under Ocean Blvd",2023-03-24,39,87,0,9,0,0,-16,B Minor,4,3MlEryrxCKZkcfX18ZLX96,GBUM72206759
+246,"Paris, Texas (feat. SYML)","Lana Del Rey,SYML",170,5A,10,2023-10-04,03:26,73,"","Did you know that there's a tunnel under Ocean Blvd",2023-03-24,29,99,6,20,0,10,-18,C Minor,3,0Oqxt6JixieLHbwMfnJGWO,GBUM72206764
+247,"Grandfather please stand on the shoulders of my father while he's deep-sea fishing (feat. RIOPY)","Lana Del Rey,RIOPY",80,4B,22,2023-10-04,04:00,57,"neoclassical","Did you know that there's a tunnel under Ocean Blvd",2023-03-24,37,94,3,8,0,30,-10,G#/A♭ Major,4,55LnC7VuUvayQ3fW0CvDL6,GBUM72206763
+248,"Margaret (feat. Bleachers)","Lana Del Rey,Bleachers",104,11B,25,2023-10-04,05:39,81,"","Did you know that there's a tunnel under Ocean Blvd",2023-03-24,34,97,10,19,0,0,-13,A Major,4,1o82DwNisONAd2mu1RcGE6,GBUM72206760
+249,"hope ur ok","Olivia Rodrigo",77,8B,30,2023-10-09,03:29,73,"","SOUR",2021-05-21,44,39,0,17,0,10,-12,C Major,4,1zejeOnykpCoyVSit6Bwp3,USUG12101250
+250,"Cherry","Harry Styles",96,9B,51,2023-10-12,04:19,74,"","Fine Line",2019-12-13,53,62,0,41,0,10,-9,G Major,4,2IOFZdYYkFxEHVz1w34PoL,USSM11912589
+251,"Beautiful People Beautiful Problems (feat. Stevie Nicks)","Lana Del Rey,Stevie Nicks",123,7B,43,2023-10-12,04:13,61,"","Lust For Life",2017-07-21,51,83,0,13,0,0,-8,F Major,4,3O7p9Itz8PXUoAjD2vmuM6,GBUM71701691
+252,"Augusta","Gracie Abrams",94,7B,20,2023-10-12,03:57,52,"","This Is What It Feels Like",2021-11-12,55,92,10,44,0,10,-15,F Major,4,35h0oVv5uf0WPNMaFAmNXS,USUG12105284
+253,"Song About Me","TV Girl",101,9A,95,2023-10-12,04:03,70,"","Who Really Cares",2016-02-25,63,0,1,50,0,60,-5,E Minor,4,5ExWCOYjZbMEZCIdlfH2dO,USCGH1682128
+254,"Powers","boygenius",111,9B,19,2023-10-14,04:14,47,"","the rest",2023-10-13,50,85,1,16,0,10,-15,G Major,4,4GgkYUOZareQyCK6ohJj7v,USUG12306653
+255,"TV","Billie Eilish",140,9A,24,2023-10-17,04:41,83,"","Guitar Songs",2022-07-21,41,83,1,12,0,10,-15,E Minor,4,3GYlZ7tbxLOxe6ewMNVTkw,USUM72213724
+256,"mad woman","Taylor Swift",142,5B,70,2023-10-17,03:57,63,"","folklore",2020-07-24,59,66,0,51,0,10,-9,D#/E♭ Major,4,2QDyYdZyhlP2fp79KZX8Bi,USUG12002846
+257,"A Night To Remember","beabadoobee,Laufey",115,7A,62,2023-10-20,03:53,76,"bedroom pop, ","A Night To Remember",2023-10-20,73,50,3,57,0,0,-8,D Minor,4,180AbZduI6bYQIzwCHRwu9,GBK3W2302799
+258,"marjorie","Taylor Swift",96,7B,56,2023-10-24,04:17,61,"","evermore (deluxe version)",2021-01-07,54,88,0,29,0,10,-12,F Major,4,5uICWmZTLkpEVbK22PBP6e,USUG12004717
+259,"Break","alex_g_offline",79,11B,45,2023-10-25,02:57,75,"","1234",2023-07-09,47,3,86,48,0,10,-14,A Major,4,4Rsv5fRmgTH88RLp7xN5sz,QZTAY2207498
+260,"Every Breath You Take","The Police",117,3B,45,2023-10-28,04:13,93,"","Synchronicity (Remastered 2003)",1983-06-17,82,54,0,74,0,0,-10,C♯/D♭ Major,4,1JSTJqkT5qHq8MDJnJbRE1,GBAAM0201110
+261,"Cedar","Gracie Abrams",134,9B,41,2023-11-10,04:12,59,"","The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",2023-11-08,53,74,0,15,0,10,-9,G Major,4,479UZI7rBJRJwqB0UZyZ57,USUG12301310
+262,"hoax","Taylor Swift",119,4B,18,2023-11-12,03:40,64,"","folklore",2020-07-24,66,97,0,43,0,10,-15,G#/A♭ Major,4,6MWoRt97mnSTXZhu3ggi9C,USUG12002850
+263,"We'll Never Have Sex","Leith Ross",174,10B,7,2023-11-28,01:39,65,"","We'll Never Have Sex",2022-03-25,37,96,0,44,0,10,-17,D Major,3,4zXuYQNDmw3dlauyc8q3Kd,USUM72203822
+264,"You’re Losing Me (From The Vault)","Taylor Swift",103,8B,40,2023-11-29,04:37,74,"","You're Losing Me (From The Vault)",2023-11-29,74,51,0,18,0,10,-14,C Major,4,3CWq0pAKKTWb0K4yiglDc4,USUG12302772
+265,"Cheri Cheri Lady","Modern Talking",114,6B,62,2023-12-02,03:46,82,"europop, italo disco, eurodance","Let's Talk About Love",1985-00-00,68,46,1,85,0,30,-14,A#/B♭ Major,4,2aEuA8PSqLa17Y4hKPj5rr,DEC738500001
+266,"Pink + White","Frank Ocean",160,11B,55,2023-12-02,03:04,88,"","Blonde",2016-08-20,55,67,0,55,10,40,-7,A Major,3,3xKsf9qdS1CyvXSMEid6g8,QZ5C81600003
+267,"Everywhere, Everything (with Gracie Abrams)","Noah Kahan,Gracie Abrams",180,1B,36,2023-12-04,04:17,70,"","Everywhere, Everything (with Gracie Abrams)",2023-12-01,30,54,0,28,0,10,-10,B Major,3,4PRdeh2zIyM1pvY4x5luLe,USUM72317571
+268,"happiness","Taylor Swift",122,1B,33,2023-12-19,05:15,62,"","evermore (deluxe version)",2021-01-07,56,87,0,21,0,10,-11,B Major,4,55Vf4bimc1Rtfg0PAQRAo2,USUG12004708
+269,"Amelie","Gracie Abrams",122,10B,25,2023-12-19,04:19,56,"","Good Riddance (Deluxe)",2023-06-16,51,89,0,36,0,10,-12,D Major,4,5SnMKAJBo7X4rUyaSMseun,USUG12202353
+270,"No. 1 Party Anthem","Arctic Monkeys",115,8B,70,2023-12-25,04:03,87,"indie, garage rock","AM",2013-09-09,51,33,9,60,0,10,-6,C Major,4,5TTGoX70AFrTvuEtqHK37S,GBCEL1300367
+271,"Mad Sounds","Arctic Monkeys",80,6B,46,2023-12-26,03:35,64,"indie, garage rock","AM",2013-09-09,53,28,20,49,0,10,-11,A#/B♭ Major,4,75n7mraeMycQOl2sDGYaTe,GBCEL1300368
+272,"Love Of My Life","Harry Styles",118,9B,54,2024-01-01,03:11,72,"","Harry's House",2022-05-20,56,67,0,20,0,0,-8,G Major,4,1mw0RgNXIpYRyyCdBQbLgA,USSM12200621
+273,"TV Dream","Cults",80,6B,44,2024-01-24,01:02,44,"","Static",2013-10-15,18,60,0,18,0,30,-7,A#/B♭ Major,4,19mZWzhbUj27oJA0cl9O9p,USSM11303917
+274,"cowboy like me","Taylor Swift",128,8B,52,2024-01-27,04:35,63,"","evermore (deluxe version)",2021-01-07,60,77,0,51,0,10,-9,C Major,4,52OkpDsU6MmPx1AwGOb6Ap,USUG12004714
+275,"What Once Was","Her's",146,2A,88,2024-01-30,04:15,78,"indie","Songs of Her's",2017-05-12,53,17,1,44,0,20,-4,D#/E♭ Minor,3,1XrSjpNe49IiygZfzb74pk,GBYEJ1100223
+276,"touch tank","quinnie",102,12B,50,2024-02-02,02:59,61,"bedroom pop","flounder",2023-02-24,67,36,0,48,0,40,-7,E Major,4,1TgCchWmdmmhGrtsa8NHwY,USSM12208609
+277,"welcome and goodbye","Dream, Ivory",140,5A,72,2024-03-02,02:20,81,"","welcome and goodbye",2018-03-31,58,2,76,66,0,0,-5,C Minor,4,00RLNHc2jkEjUoCUlFgPVT,QM42K1745830
+278,"End of Beginning","Djo",160,10B,45,2024-03-15,02:39,98,"","DECIDE",2022-09-16,69,4,0,91,0,0,-8,D Major,4,3qhlB30KknSejmIvZZLjOD,GBKPL2205058
+279,"Head Over Heels - Dave Bascombe 7  N.Mix","Tears For Fears,Dave Bascombe",95,9B,74,2024-03-29,04:17,73,"new wave, synthpop, ","Songs From The Big Chair (Deluxe)",1985-02-25,62,34,0,64,0,10,-8,G Major,4,5lwQGZYF4BXOzFtXc5zk8q,GBF080400754
+280,"Uptown Girl","Billy Joel",129,12B,94,2024-04-18,03:18,83,"soft rock","An Innocent Man",1983-08-08,70,8,0,79,0,60,-3,E Major,4,5zA8vzDGqPl2AzZkEYQGKh,USSM18300270
+281,"coney island (feat. The National)","Taylor Swift,The National",108,4B,54,2024-05-27,04:35,62,"indie rock","evermore (deluxe version)",2021-01-07,54,82,0,29,0,10,-11,G#/A♭ Major,4,2awNGIJHodfLZSClB3PYhz,USUG12004711
+282,"peace - the long pond studio sessions","Taylor Swift",150,7B,34,2024-05-30,03:34,49,"","folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",2020-11-25,62,93,0,51,0,0,-11,F Major,4,4YHHz3VIXgNDGdoL9xC1tx,USUG12004487
+283,"mad woman - the long pond studio sessions","Taylor Swift",142,5B,47,2024-05-30,03:58,49,"","folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",2020-11-25,66,89,0,35,0,10,-10,D#/E♭ Major,4,04xrhDrQ2WOW8GLwu7kbc0,USUG12004484
+284,"Sweet Disposition","The Temper Trap",129,10B,81,2024-07-01,03:54,77,"","Conditions",2009-08-10,54,8,25,31,0,10,-7,D Major,4,1jUkHIMc7UaJQuzWe5Iop2,GBZUZ0900013
+285,"Nomad","Clairo",83,4B,45,2024-07-12,03:45,63,"bedroom pop","Charm",2024-07-12,51,90,0,27,0,10,-11,G#/A♭ Major,4,4WJPxTsvWIdRZ9vMtqk7fj,USA2P2416223
+286,"West End Girls - 2001 Remaster","Pet Shop Boys",113,9A,95,2024-07-25,04:05,34,"synthpop, new wave","Ultimate",2010-11-01,65,1,6,60,0,10,-7,E Minor,4,3pa3bhD8hGGeyzqwy5U1Gn,GBAYE0100001
+287,"Playground Love","Air,Gordon Tracks",143,6A,42,2024-08-24,03:31,2,"trip hop, downtempo, ","The Virgin Suicides (Original Motion Picture Score)",2000-02-25,33,27,73,12,0,30,-11,G Minor,4,052z2UsE2wPrHsBJ9tly0g,FR71S9900001
+288,"anything","Adrianne Lenker",84,5B,29,2024-09-03,03:22,80,"","songs",2020-10-23,39,77,0,51,0,0,-13,D#/E♭ Major,4,4PwWESSlTwzvw9B7bmtTLS,GBAFL2000252
+289,"I Don't Owe You Anything - 2011 Remaster","The Smiths",113,12B,43,2024-09-06,04:04,68,"new wave, madchester, jangle pop","The Smiths",1984-02-20,70,2,0,60,0,10,-10,E Major,4,4WKdgb3xzbTSU7WT3kK3na,GBCRL1100035
+290,"Moves","Suki Waterhouse",85,8B,44,2024-09-16,03:13,67,"","I Can't Let Go",2022-05-06,57,58,0,37,0,30,-8,C Major,4,6TT7B4MigCJCc0tqKYEpZC,USSUB2146521
+291,"Friday I'm In Love","The Cure",136,5A,76,2024-09-19,03:35,80,"new wave, post-punk, gothic rock, darkwave","Wish",1992-04-20,53,0,0,51,0,30,-13,C Minor,4,4QlzkaRHtU8gAdwqjWmO8n,GBALB9200002
+292,"California Dreamin'","The Mamas & The Papas",112,12A,73,2024-09-19,02:40,75,"folk rock","All The Leaves Are Brown The Golden Era Collection",2001-08-28,55,42,0,65,0,0,-7,C♯/D♭ Minor,4,1ZEOIhSn6BKErV59bIgn76,USMC16532697
+293,"Scott Street","Phoebe Bridgers",135,6B,42,2024-09-20,05:05,73,"","Stranger in the Alps (Deluxe Edition)",2018-10-02,51,77,9,48,0,0,-10,A#/B♭ Major,4,21uFPefbgeR3QLVJWATlrr,USJ5G1714205
+294,"The Chain - 2004 Remaster","Fleetwood Mac",152,11B,67,2024-09-21,04:30,89,"yacht rock, classic rock, soft rock","Rumours (Super Deluxe)",1977-02-04,55,1,0,48,0,0,-9,A Major,4,5e9TFTbltYBg2xThimr0rU,USWB11301116
+295,"1979 - Remastered 2012","The Smashing Pumpkins",127,5B,79,2024-09-23,04:26,80,"alternative rock, rock","Mellon Collie And The Infinite Sadness (Deluxe Edition)",1995-00-00,77,2,58,96,0,0,-10,D#/E♭ Major,4,5QLHGv0DfpeXLNFo7SFEy1,USVI21200910
+296,"Wuthering Heights","Kate Bush",125,3B,39,2024-10-01,04:29,78,"art pop, baroque pop, art rock","The Kick Inside",1978-02-17,48,37,5,52,0,10,-11,C♯/D♭ Major,4,5YSI1311X8t31PBjkBG4CZ,GBAYE7700223
+297,"Season Of The Witch","Lana Del Rey",96,10B,21,2024-10-05,04:07,63,"","Season Of The Witch (From The Motion Picture  Scary Stories To Tell In The Dark )",2019-08-09,67,90,3,36,0,10,-14,D Major,4,5DSi7heBC8eTIFROBvttnp,GBUM71903671
+298,"The Promise","When In Rome",118,8B,88,2024-10-05,03:40,75,"new wave, synthpop","When In Rome",1988-01-01,63,9,0,36,0,0,-10,C Major,4,48p5E25cFPanxuwCTmTpuL,GBAAA8800494
+299,"My Kink Is Karma","Chappell Roan",87,10B,60,2024-10-07,03:42,69,"","The Rise and Fall of a Midwest Princess",2023-09-22,56,1,0,42,0,10,-6,D Major,4,32fSZSbxeVoiZShMQKLc6Z,USUG12302737
+300,"Day After Tomorrow","Phoebe Bridgers",83,8B,25,2024-10-12,06:05,35,"","Day After Tomorrow",2021-11-30,29,94,0,31,0,10,-13,C Major,1,6gicJ8dwpj6ZTG7TKFsH5P,USJ5G2131701
+301,"Eyes Without A Face","Billy Idol",86,11B,82,2024-10-12,04:59,86,"","Rebel Yell",1983-11-01,54,2,0,66,0,20,-6,A Major,4,0pUVeEgZuNyFzIMKp67RbS,USCH38400023
+302,"Oh to Be in Love","Kate Bush",94,2B,35,2024-10-12,03:18,59,"art pop, baroque pop, art rock","The Kick Inside",1978-02-17,66,49,0,47,0,10,-14,F#/G♭ Major,4,628RVPULYzx6bvh8uf0Msn,GBAYE7800111
+303,"The Alcott (feat. Taylor Swift)","The National,Taylor Swift",156,8B,47,2024-10-15,04:27,64,"indie rock, ","First Two Pages of Frankenstein",2023-04-28,37,82,0,43,0,10,-11,C Major,3,6INztpNwOTlfSKTuPo0HOP,GBAFL2200337
+304,"tolerate it","Taylor Swift",75,11B,36,2024-10-14,04:05,64,"","evermore (deluxe version)",2021-01-07,32,88,0,22,0,0,-10,A Major,5,6lCvK2AR2uOKkVFCVlAzzm,USUG12004705
+305,"Two Ghosts","Harry Styles",69,11A,41,2024-10-14,03:49,70,"","Harry Styles",2017-05-12,39,23,0,46,0,10,-7,F#/G♭ Minor,4,4B1rpPmQXwj78wk6aIGwwU,USSM11703955
+306,"Astronomy","Conan Gray",145,9A,34,2024-10-14,04:03,73,"","Superache",2022-06-24,47,58,0,15,0,30,-9,E Minor,3,2JN3ugW1cEahbYw0I5mw5U,USUM72106337
+307,"Right now","Gracie Abrams",79,8B,45,2024-10-14,05:50,59,"","Good Riddance (Deluxe)",2023-06-16,23,83,39,20,0,0,-12,C Major,4,5qCZTDYRqMENitupuEaILd,USUG12202357
+308,"Halley's Comet","Billie Eilish",72,12A,16,2024-10-14,03:54,78,"","Happier Than Ever",2021-07-30,40,96,1,4,10,30,-17,C♯/D♭ Minor,4,5XsAal7ZcWg1I5T4NcRjkv,USUM72105930
+309,"Sign of the Times","Harry Styles",120,7B,60,2024-10-14,05:40,88,"","Harry Styles",2017-05-12,52,3,0,22,0,10,-5,F Major,4,5Ohxk2dO5COHF1krpoPigN,USSM11703595
+310,"Getting Older","Billie Eilish",160,6B,13,2024-10-14,04:04,73,"","Happier Than Ever",2021-07-30,60,97,12,37,10,10,-17,A#/B♭ Major,4,4HOryCnbme0zBnF8LWij3f,USUM72105922
+311,"I should hate you","Gracie Abrams",138,7B,50,2024-10-14,04:18,64,"","Good Riddance (Deluxe)",2023-06-16,50,82,0,40,0,10,-8,F Major,4,4iUt4PddTybyCrpQAMoJH7,USUG12202351
+312,"Long Sleeves","Gracie Abrams",114,6B,25,2024-10-14,03:38,61,"","minor",2020-07-14,45,82,0,11,0,10,-9,A#/B♭ Major,4,3wIRxCIGmdxld4ZC6yShZ9,USUG11903592
+313,"Mean It","Gracie Abrams",123,8A,30,2024-10-14,02:51,58,"","Mean It",2019-10-24,56,85,0,13,0,10,-10,A Minor,1,5IyuGEmlFsnp1TN1M9OSd8,USUG11903588
+314,"Red (Taylor's Version)","Taylor Swift",125,12A,78,2024-10-14,03:43,75,"","Red (Taylor's Version)",2021-11-12,52,0,0,41,0,0,-5,C♯/D♭ Minor,4,4OAuvHryIVv4kMDNSLuPt6,USUG12103662
+315,"Labyrinth","Taylor Swift",110,8B,30,2024-10-14,04:07,72,"","Midnights",2022-10-21,48,80,33,13,0,10,-16,C Major,4,0A1JLUlkZkp2EFrosoNQi0,USUG12205716
+316,"Ever Since New York","Harry Styles",128,6B,54,2024-10-14,04:13,68,"","Harry Styles",2017-05-12,39,20,0,38,0,10,-7,A#/B♭ Major,5,5LABCxgmP7DATATIJXOh6n,USSM11703959
+317,"Meet Me in the Hallway","Harry Styles",104,10B,38,2024-10-14,03:47,67,"","Harry Styles",2017-05-12,54,75,0,34,0,30,-7,D Major,4,4u9Y4Z9i9VaAbBK7rW1Rha,USSM11703953
+318,"making the bed","Olivia Rodrigo",133,9B,41,2024-10-14,03:18,77,"","GUTS",2023-09-08,55,39,0,25,0,10,-8,G Major,4,5CscrLqFBgPfZR8fGtikov,USUG12304097
+319,"Block me out","Gracie Abrams",128,6A,53,2024-10-14,04:09,63,"","Good Riddance (Deluxe)",2023-06-16,64,77,0,22,0,10,-7,G Minor,4,1w0o2PLYzpFnnyEnOoD7qX,USUG12105302
+320,"the lakes - bonus track","Taylor Swift",90,10B,26,2024-10-14,03:31,58,"","folklore (deluxe version)",2020-08-17,51,85,0,29,0,0,-12,D Major,4,5dwQhzeE8LXpl9sbZJZmQS,USUG12002851
+321,"long story short","Taylor Swift",158,8B,73,2024-10-14,03:35,62,"","evermore (deluxe version)",2021-01-07,55,66,18,57,0,10,-8,C Major,4,5VYWxXUpxuxEmCqMLDqICo,USUG12004716
+322,"Don't Dream It's Over","Crowded House",81,4B,75,2024-10-19,03:58,76,"","Crowded House (Deluxe)",1986-08-01,44,1,0,36,0,0,-7,G#/A♭ Major,4,56GbZVwxMdf1DENCluYS8A,USCA28600048
+323,"Blue Light","Mazzy Star",135,12B,22,2024-10-20,05:10,69,"dream pop, shoegaze, slowcore","So Tonight That I Might See",1993-10-05,46,84,62,18,0,10,-16,E Major,3,3BdHMOIA9B0bN53jbE5nWe,USCA29300471
+324,"Life Goes On","The Sundays",122,8B,56,2024-10-24,04:00,61,"dream pop, jangle pop","Cry",1997-00-00,57,44,0,41,0,20,-8,C Major,4,6st8aj6PmtqGctnLAat95M,GB01A9700036
+325,"Silver Springs - 2004 Remaster","Fleetwood Mac",179,8B,58,2024-10-26,04:48,83,"yacht rock, classic rock, soft rock","Rumours (Super Deluxe)",1977-02-04,35,1,5,43,0,20,-8,C Major,4,4nZi6XNe36Ut4Nij3IQ1yC,USWB11301121
+326,"Flume","Bon Iver",133,1B,14,2024-11-07,03:39,65,"","For Emma, Forever Ago",2008-02-19,45,93,4,9,0,10,-17,B Major,4,0bhBtXHQX3u6dSAPF59qGx,US38Y0811501
+327,"How to Dream","Sam Phillips",118,1B,35,2024-11-08,03:07,52,"","Fan Dance",2001-07-31,68,60,0,58,0,0,-13,B Major,4,1cPLddXCqw6uzyWy6tdtlK,USNO10162506
+328,"Beautiful","Lana Del Rey",78,2B,20,2024-11-28,03:35,56,"","Blue Banisters",2021-10-22,55,96,0,24,0,20,-11,F#/G♭ Major,4,5uPpzqixdzAMXprr4P5aT5,GBUM72104282
+329,"Halah","Mazzy Star",106,8B,45,2024-12-03,03:16,68,"dream pop, shoegaze, slowcore","She Hangs Brightly",1990-05-21,62,23,0,55,0,10,-11,C Major,4,6JuEshIRliNXRU1LXctRjZ,USCA29000609
+330,"Little Changes","Clairo",63,7B,8,2024-12-10,02:40,48,"bedroom pop","Sling",2021-07-16,42,98,0,18,0,0,-22,F Major,4,3Gjj8LeMagv4Ou2p7kgQHT,USUG12101900
+331,"Just For Today","Clairo",144,5B,4,2024-12-10,03:37,51,"bedroom pop","Sling",2021-07-16,38,92,0,32,0,10,-22,D#/E♭ Major,4,63O4CpEtppRmeOZ89Fb8tn,USUG12101897
+332,"Roseblood","Mazzy Star",83,12A,32,2024-12-16,04:51,63,"dream pop, shoegaze, slowcore","Among My Swan",1996-10-29,26,37,72,7,0,10,-15,C♯/D♭ Minor,3,2qV5Ce0sMlFsrseRO5CTMU,USCA29601039
+333,"Mystified - 2017 Remaster","Fleetwood Mac",179,5B,36,2024-12-28,03:09,56,"yacht rock, classic rock, soft rock","Tango In the Night (Deluxe Edition)",1987-04-13,54,74,15,58,0,0,-14,D#/E♭ Major,4,524nCOIQg9fi0pETVnbpv8,USRH11602192
+334,"Blouse - Recorded At Electric Lady Studios","Clairo",147,4A,13,2025-01-09,03:13,42,"bedroom pop","Live at Electric Lady",2023-05-12,34,93,0,46,0,10,-14,F Minor,4,127CAKy0KyYoR0r7QNbvVR,USUG12302759
+335,"Heaven or Las Vegas","Cocteau Twins",180,9B,80,2025-01-09,04:58,72,"dream pop, shoegaze, gothic rock","Heaven or Las Vegas",1990-09-17,20,0,1,42,0,0,-5,G Major,4,0AxZUYeQ9bZwSdt1LmZuok,GBAFL9000039
+336,"Mariners Apartment Complex","Lana Del Rey",76,11B,25,2025-01-11,04:07,70,"","Norman Fucking Rockwell!",2019-08-30,53,76,0,16,0,10,-13,A Major,4,6OG05bPAwUuV3OMvy2Vy1P,USUG11801801
+337,"Thunder","Lana Del Rey",74,5B,48,2025-01-11,04:19,69,"","Blue Banisters",2021-10-22,48,67,0,24,0,10,-8,D#/E♭ Major,4,4y9vLiQ9mQb6XNEtc4K6ou,GBUM72104283
+338,"Limp","Fiona Apple",120,8A,52,2025-01-12,03:29,55,"art pop","When The Pawn...",1999-11-09,77,12,0,34,0,40,-10,A Minor,4,104YdibC7VQy78xAVmgRYr,USSM19910358
+339,"I Know","Fiona Apple",146,8B,21,2025-01-12,04:55,62,"art pop","When The Pawn...",1999-11-09,32,94,0,20,0,10,-14,C Major,3,0uhYgQQ6WX9rCONnum7Fmw,USSM19910364
+340,"Femme Fatale","The Velvet Underground,Nico",104,8B,14,2025-01-15,02:39,64,"proto-punk, art rock","The Velvet Underground & Nico 45th Anniversary",1967-03-12,55,91,0,15,0,10,-16,C Major,4,3PG7BAJG9WkmNOJOlc4uAo,USPR36702761
+341,"Just Like Heaven - Remastered 2006","The Cure",151,11B,94,2025-01-17,03:32,73,"new wave, post-punk, gothic rock, darkwave","Kiss Me Kiss Me Kiss Me (Remastered 2006)",1987-05-26,44,5,0,48,0,20,-7,A Major,4,4NnWuGQujzWUEg0uZokO5M,GBALB8700003
+342,"Heavy","The Marías",97,8B,41,2025-01-19,04:13,83,"bedroom pop","CINEMA",2021-06-25,76,33,75,73,0,0,-8,C Major,4,1ShRHPAiiIrh0arZbSFmx1,USAT22100694
+343,"Slow Dance","Clairo",84,10B,53,2025-01-23,03:54,77,"bedroom pop","Charm",2024-07-12,73,72,2,60,0,10,-8,D Major,4,2qmmnbJ9JR3f7vofbyje5r,USA2P2416226
+344,"So Real","Jeff Buckley",77,9A,63,2025-01-29,04:43,69,"","Grace",1994-00-00,47,1,0,33,0,0,-5,E Minor,4,6PBzdsMi6YNdYAevzozBRi,USSM19400143
+345,"Mama, You Been on My Mind - Studio Outtake - 1993","Jeff Buckley",170,8B,5,2025-01-29,03:25,58,"","Grace (Legacy Edition)",1994-08-23,37,96,1,11,0,10,-18,C Major,1,4yg2qSpnVAbQLPjCJTWwtY,USSM10408725
+346,"Here's Where the Story Ends","The Sundays",109,9B,69,2025-01-29,03:50,67,"dream pop, jangle pop","Reading Writing And Arithmetic",1990-00-00,62,29,0,84,0,10,-9,G Major,4,5gSHlT2SI0dtjeHrjj96A1,GB01A9000004
+347,"Thanksgiving in Sacramento","Jon Brion",109,6B,18,2025-02-01,00:51,51,"soundtrack, score","Lady Bird (Original Motion Picture Soundtrack)",2017-11-17,47,89,91,9,0,10,-20,A#/B♭ Major,4,5y6tawMZjDF9ztCmfWZYYd,USLS51713009
+348,"Love Is A Losing Game","Amy Winehouse",165,8B,29,2025-02-07,02:35,66,"","Back To Black (Deluxe Edition)",2006-00-00,48,34,1,56,0,10,-17,C Major,4,3uliGwmB52ZA7brgpZMzyH,GBUM70603489
+349,"Star - 2012 Remaster","David Bowie",138,8B,86,2025-02-09,02:47,53,"glam rock, art rock","The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",1972-06-06,45,18,0,55,0,10,-9,C Major,4,5WfSHn8qVk1W3GJJQpETC1,USJT11200007
+350,"Something - Remastered 2009","The Beatles",133,8B,34,2025-02-12,03:02,78,"classic rock, psychedelic rock","Abbey Road (Remastered)",1969-09-26,41,20,0,38,0,10,-11,C Major,4,0pNeVovbiZHkulpGeOx1Gj,GBAYE0601691
+351,"Reflecting Light","Sam Phillips",107,1A,23,2025-03-05,03:17,58,"","A Boot and a Shoe",2004-04-27,48,84,1,11,0,10,-14,G#/A♭ Minor,3,7DDcNAaRQm1cyDeJ4yLafO,USNO10480706
+352,"You're Not The Only One I Know","The Sundays",98,8B,45,2025-03-23,03:51,63,"dream pop, jangle pop","Reading Writing And Arithmetic",1990-00-00,56,53,0,66,0,30,-12,C Major,4,3nbFVNHVYCMCdD9vBo3udv,GB01A9000011
+353,"100","Dean Blunt",102,3A,81,2025-03-27,03:20,72,"","BLACK METAL",2014-11-03,61,0,7,48,0,20,-6,A#/B♭ Minor,4,784VjdNkpXhFV0RHquzsi2,GBCVZ1403577
+354,"31","Sydney Rose",127,12B,16,2025-04-04,04:59,40,"","I Know What I Want",2025-04-04,43,75,0,12,0,10,-12,E Major,4,61QM8FuFUAEzF6ssSecmT5,USUG12502564
+355,"Silver Lining","Laufey",82,11B,34,2025-04-06,03:17,63,"","Silver Lining",2025-04-03,50,82,0,20,0,10,-8,A Major,3,4kfXaAAZlfBrimPJYHlCEM,QM6MZ2547162
+356,"Moving","Kate Bush",127,7A,34,2025-04-10,03:01,55,"art pop, baroque pop, art rock","The Kick Inside",1978-02-17,50,43,0,20,0,20,-14,D Minor,4,1PtXEYrahu8Vg2rhpJBoqt,GBAYE7800103
+357,"Strange Phenomena","Kate Bush",82,8A,27,2025-04-10,02:58,44,"art pop, baroque pop, art rock","The Kick Inside",1978-02-17,36,34,31,35,0,20,-16,A Minor,4,7FXFAvkVsZ85KzppbQzYs2,GBAYE7800105
+358,"Room for the Life","Kate Bush",101,9B,38,2025-04-10,04:05,41,"art pop, baroque pop, art rock","The Kick Inside",1978-02-17,48,29,0,51,0,10,-14,G Major,4,650eiAftcdoorcciUfl61h,GBAYE7800114
+359,"For Free","Lana Del Rey,Zella Day,Weyes Blood",114,7B,11,2025-04-10,04:11,52,"art pop, baroque pop","Chemtrails Over The Country Club",2021-03-19,50,98,0,20,0,0,-13,F Major,3,2lhfd0CF0dFlwRVH8NG8vv,GBUM72006077
+360,"When You're Gone","The Cranberries",187,5B,52,2025-04-12,04:56,70,"","To The Faithful Departed",1996-04-30,45,35,0,35,0,0,-7,D#/E♭ Major,3,3EXrtClWmgsM7dw75Mw2M1,USIR29600117
+361,"Let Down","Radiohead",102,11B,68,2025-04-20,04:59,89,"art rock, alternative rock","OK Computer",1997-05-28,35,0,11,14,0,10,-9,A Major,4,2fuYa3Lx06QQJAm0MjztKr,GBAYE9701374
+362,"I Want You To Love Me","Fiona Apple",141,8A,50,2025-04-20,03:57,64,"art pop","Fetch The Bolt Cutters",2020-04-17,53,56,4,71,0,0,-9,A Minor,3,73SBAGI4fPFm4VkB3NjXq8,USSM12001949
+363,"Liability","Lorde",76,3A,23,2025-05-08,02:51,70,"","Melodrama",2017-06-16,59,92,0,38,10,10,-11,A#/B♭ Minor,4,6Kkt27YmFyIFrcX3QXFi2o,NZUM71700064
+364,"broken one","Shineymoon",110,10B,39,2025-05-16,03:48,13,"","broken one",2025-05-16,63,16,0,19,0,10,-10,D Major,4,0HzFOwHCguJjYB1DF8YScb,QZNWY2524650
+365,"Summertime","The Sundays",96,11B,65,2025-06-06,03:34,59,"dream pop, jangle pop","Static And Silence",1997-09-22,62,15,0,79,0,0,-7,A Major,4,4WrYLfuJg2wNLwvSRHZwxl,GB01A9700040
+366,"Cherry Bomb","The Runaways",137,1B,81,2025-06-06,02:18,68,"riot grrrl, proto-punk","The Runaways",1976-00-00,50,5,0,50,0,10,-8,B Major,4,7cdnq45E9aP2XDStHg5vd7,USIR20200576
+367,"On Melancholy Hill","Gorillaz",120,10B,74,2025-06-17,03:53,84,"","Plastic Beach",2010-03-03,69,0,51,58,0,0,-6,D Major,4,0q6LuUqGLUiCPP1cbdwFs3,GBAYE1000010
+368,"Listen To The Birds","Sydney Rose",117,10B,18,2025-06-23,04:00,39,"","I Know What I Want",2025-04-04,53,85,1,10,0,10,-16,D Major,4,2JFnUJ4pLqPKlVKRCSeh9Q,USUG12502571
+369,"5 More Minutes","Sydney Rose",137,12B,8,2025-06-23,03:50,53,"","I Know What I Want",2025-04-04,39,94,0,4,0,10,-15,E Major,3,5wAWTCv7wjkB3lNzGmIPcd,USUG12502567
+370,"Wade","Clairo",108,7B,16,2025-07-11,04:46,48,"bedroom pop","Sling",2021-07-16,61,95,1,33,0,10,-18,F Major,4,6VyCMQf7wZyZF4j9368HGK,USUG12101895
+371,"Harbor","Clairo",93,2B,17,2025-07-11,04:24,57,"bedroom pop","Sling",2021-07-16,38,95,0,20,0,0,-15,F#/G♭ Major,4,57VAuR1WgKFzcpO3ujQx9A,USUG12101896
+372,"Fear","Current Joys",94,10B,45,2025-07-17,03:36,73,"lo-fi indie","A Different Age",2018-03-02,72,70,43,51,0,0,-8,D Major,4,1JbbYSre3n6j2YlfHH31UL,QMBZ91743918
+373,"The Blonde","TV Girl",88,12A,55,2025-07-21,03:47,81,"","French Exit",2014-06-05,50,23,91,23,0,20,-8,C♯/D♭ Minor,4,72cGBEqu7RitIOoACXYjfR,USHM21438141
+374,"Petals","Hole",115,9A,82,2025-07-21,05:29,71,"riot grrrl, grunge","Celebrity Skin",1998-01-01,45,0,3,22,0,30,-7,E Minor,4,4VedfquAzkjR15ntcWmNfL,USGF19816412
+375,"Crying in the Night","Buckingham Nicks,Stevie Nicks,Lindsey Buckingham",97,11B,39,2025-07-23,02:59,3,"","Crying in the Night",2025-07-23,49,8,0,44,0,10,-13,A Major,4,39EnwJiZJ9q3hqcnKaJwlB,USRH12501549
+376,"The blue","Gracie Abrams",138,8B,46,2025-07-29,05:00,62,"","Good Riddance (Deluxe)",2023-06-16,33,83,0,20,0,10,-8,C Major,4,7jkelF6xQ9oM8BEZRARhhC,USUG12202356
+377,"California","Lana Del Rey",124,8A,41,2025-08-05,05:05,68,"","Norman Fucking Rockwell!",2019-08-30,45,76,0,20,0,0,-8,A Minor,4,7oTE1KmtU2ml9zBhv9Reao,GBUM71701863
+378,"Lover Girl","Laufey",88,1B,45,2025-08-22,02:44,81,"","A Matter of Time",2025-08-22,66,84,0,90,10,0,-7,B Major,4,4nwjvcUjV7cexhwA40Bh5i,QM6N22553527
+379,"Dreams","The Cranberries",129,12B,65,2025-08-23,04:31,84,"","Everybody Else Is Doing It, So Why Can't We?",1993-03-01,55,0,0,51,0,40,-13,E Major,4,4JGKZS7h4Qa16gOU3oNETV,USIR29300080
+380,"i was all over her","salvia palth",105,9B,37,2025-08-28,02:41,80,"slowcore, lo-fi indie","melanchole",2013-05-06,54,78,88,5,0,10,-13,G Major,4,6mSnSuOhgHHohqeBw76jRV,GBSMU1456120
+381,"Soccer Practice","Lizzy McAlpine",151,7B,29,2025-08-28,03:58,66,"","Older (and Wiser)",2024-10-04,24,91,0,16,0,10,-10,F Major,4,72Y8v9ZjNI8mkCvqpUiaBO,USRC12402859
+382,"Briston","Sydney Rose",113,1B,13,2025-08-31,02:47,60,"","Briston",2024-06-07,50,85,0,15,0,10,-14,B Major,4,65VpwcmfM8WMvEPrI0cCtF,USAT22403489
+383,"How Soon Is Now? - 2011 Remaster","The Smiths",191,1B,93,2025-09-02,06:48,74,"new wave, madchester, jangle pop","Hatful of Hollow",1984-00-00,40,0,12,73,0,0,-7,B Major,4,1YrnDTqvcnUKxAIeXyaEmU,GBCRL1100068
+384,"Fake Plastic Trees","Radiohead",74,10B,23,2025-09-07,04:50,81,"art rock, alternative rock","The Bends",1995-03-13,46,17,10,14,0,20,-13,D Major,4,73CKjW3vsUXRpy3NnX4H7F,GBAYE9400056
+385,"All I Need","Radiohead",88,9A,48,2025-09-10,03:48,83,"art rock, alternative rock","In Rainbows",2007-12-28,67,53,43,10,0,10,-9,E Minor,4,5Qv2Nby1xTr9pQyjkrc94J,GBSTK0700005
+386,"Motion Picture Soundtrack","Radiohead",91,9B,13,2025-09-12,03:20,75,"art rock, alternative rock","Kid A",2000-10-02,11,92,71,4,0,10,-16,G Major,4,4SrRrB27n7fiRkQcPoKfpk,GBAYE0800814
+387,"Reckoner","Radiohead",104,9A,66,2025-09-14,04:50,69,"art rock, alternative rock","In Rainbows",2007-12-28,52,51,16,21,0,0,-7,E Minor,4,02ppMPbg1OtEdHgoPqoqju,GBSTK0700007
+388,"Luna - 2011 Remaster","The Smashing Pumpkins",126,11B,27,2025-09-15,03:22,70,"alternative rock, rock","Siamese Dream (Deluxe Edition)",1993-00-00,57,1,79,11,0,10,-14,A Major,4,5Q6Xzp25aXYxNJ4B6vBkcf,USVI21100158
+389,"The Little Mess You Made","The Favors,FINNEAS,Ashe",108,9A,47,2025-09-19,03:21,63,"","The Dream",2025-09-19,66,3,0,30,0,0,-6,E Minor,4,7m6v28coJpF6mr6LEHbmce,USUG12504192
+390,"Tom's Diner - 7  Version","DNA,Suzanne Vega,Neal Slateford,Nick Batt",99,11A,45,2025-09-19,03:47,70,"singer-songwriter, ","The Best Of Suzanne Vega - Tried And True",1998-01-01,86,4,2,54,0,0,-11,F#/G♭ Minor,4,4sutLmjkVKRN6pOAMo2joC,USAM19104302
+391,"east coast","alexgoffline",132,9B,29,2025-09-25,02:31,71,"","east coast",2024-11-27,70,91,60,53,0,10,-17,G Major,4,3PfP2ESY88v8ElWGkAIcz4,AUBEC2348227
+392,"Bells Ring","Mazzy Star",167,9B,48,2025-10-06,04:32,57,"dream pop, shoegaze, slowcore","So Tonight That I Might See",1993-10-05,17,0,0,33,0,10,-12,G Major,4,5AabqkMATMr8zsfPS5yJnr,USCA29300468
+393,"I Love You","Fontaines D.C.",114,9A,77,2025-10-10,05:05,67,"post-punk","I Love You",2022-02-17,63,9,0,37,0,0,-7,E Minor,4,7b2caacNgQW74qGvNyVQo1,USBQU2100093
+394,"Unmade Bed","Sydney Rose",98,1B,28,2025-10-16,04:24,52,"","One Sided",2023-11-10,34,75,0,14,0,0,-13,B Major,4,7DtMjrF0atLQ396QZ7150I,USAT22309062
+395,"like it tends to be","Shineymoon",150,10A,26,2025-11-08,03:07,11,"","like it tends to be",2025-07-04,38,87,0,29,0,10,-7,B Minor,4,1y01zROhsEafA2aiSBaQdt,QZTAZ2557869
+396,"The Holiday - Acoustic","Sydney Rose",76,2B,21,2025-11-14,04:00,34,"","The Holiday",2025-11-14,54,94,0,22,0,10,-13,F#/G♭ Major,4,20pP3XAQUyd8lTgdwKB3Nc,USUG12509805
+397,"I Love You","Fontaines D.C.",114,9A,77,2025-11-14,05:05,76,"post-punk","Skinty Fia",2022-04-22,63,9,0,37,0,0,-7,E Minor,4,5XhMgAWzou6EjDmQtoyoZE,USBQU2100093
+398,"Say Yes","Elliott Smith",153,7B,9,2025-11-16,02:20,59,"singer-songwriter","Either/Or",1997-02-25,53,87,0,46,0,10,-20,F Major,4,7zVfEu1dEvRw4EkWoqrBkx,USKRS0326912
+399,"Golden Brown","The Stranglers",94,2B,38,2025-11-21,03:26,83,"proto-punk, new wave","La Folie",1981-00-00,56,14,12,60,0,10,-15,F#/G♭ Major,3,2AX5E86cn9n2dgioZEjirI,GBAYE8100053
+400,"Blood Bank","Bon Iver",117,9B,37,2025-11-23,04:45,0,"","Blood Bank",2009-01-20,49,96,3,25,0,10,-12,G Major,4,7qUoDTmVj07qUf6ZBDhWKl,US38Y0913401
+401,"Don't Stop - 2004 Remaster","Fleetwood Mac",119,11B,71,2025-11-30,03:13,77,"yacht rock, classic rock, soft rock","Rumours",1977-02-04,67,4,0,83,0,0,-8,A Major,4,4bEb3KE4mSKlTFjtWJQBqO,USWB10400049
+402,"Go Slowly","Radiohead",108,10A,39,2025-12-05,03:48,66,"art rock, alternative rock","In Rainbows (Disk 2)",2007-00-00,44,88,80,4,0,10,-9,B Minor,4,6yiSyupeI7KYdBZKJdnIUO,GBSTK0700013
+403,"The Boy","The Smashing Pumpkins",131,2B,69,2025-12-09,03:03,65,"alternative rock, rock","Aeroplane Flies High (Deluxe Edition)",2013-01-01,66,0,0,64,0,10,-6,F#/G♭ Major,4,2Yw5jfEaQFHoUFhzXUGkgV,USVI29601072
+404,"Videotape","Radiohead",77,12A,38,2025-12-12,04:39,64,"art rock, alternative rock","In Rainbows",2007-12-28,60,69,81,5,0,0,-11,C♯/D♭ Minor,4,4T1iiabe7G0UjWQJCY6NE2,GBSTK0700010
+405,"Ballad Of Big Nothing","Elliott Smith",109,8B,51,2025-12-18,02:48,57,"singer-songwriter","Either/Or",1997-02-25,65,34,0,67,0,10,-10,C Major,4,4HqRhdpxH9zFUkf1kzbr3H,USKRS0326903
+406,"Between The Bars","Elliott Smith",135,6A,7,2025-12-30,02:21,65,"singer-songwriter","Either/Or",1997-02-25,52,93,77,34,0,10,-24,G Minor,3,52Bg6oaos7twR7IUtEpqcE,USKRS0326904
+407,"Angeles","Elliott Smith",118,9A,10,2025-12-30,02:57,59,"singer-songwriter","Either/Or",1997-02-25,53,86,28,60,0,10,-24,E Minor,4,0Ziohm1Ku8E2yUDYoclfhO,USKRS0326909
+408,"Love Songs on the Radio","Mojave 3",146,10B,25,2026-01-03,05:48,60,"slowcore, dream pop, shoegaze","Ask Me Tomorrow",1995-10-16,46,90,9,7,0,10,-16,D Major,4,3FzK2g50oLcx8vqETwOn07,GBAFL9500088
+409,"Soma - 2011 Remaster","The Smashing Pumpkins",133,9B,28,2026-02-22,06:38,40,"alternative rock, rock","Siamese Dream (2011 - Remaster)",1993-07-27,30,2,83,10,0,10,-12,G Major,4,2EogyXM3vYmepKPkuaRAi5,USVI21100152
+410,"Oh Well, OK","Elliott Smith",92,5B,35,2026-02-24,02:33,47,"singer-songwriter","XO",1998-08-25,52,44,0,32,0,10,-11,D#/E♭ Major,4,7AG284RTvcDG9uHt1NQIbu,USDW19804809
+411,"Mayonaise - 2011 Remaster","The Smashing Pumpkins",146,6B,53,2026-02-26,05:48,70,"alternative rock, rock","Siamese Dream (Deluxe Edition)",1993-00-00,48,0,54,9,0,0,-10,A#/B♭ Major,4,0jmKzJmUEKNbC7eU8YfOiA,USVI21100154
+412,"Perfect","The Smashing Pumpkins",114,9A,91,2026-03-12,03:22,60,"alternative rock, rock","Adore (2014 Remaster)",1998-00-00,64,1,63,54,0,40,-6,E Minor,4,0GvC9hj6rWx7O1jinbhjty,USVI29800015
