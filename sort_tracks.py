@@ -37,35 +37,55 @@ def sort_playlists(sort_folder, dataset_folder):
     print("Starting to sort playlists...")
     processed_files = 0
 
-    # Проходимося по всіх CSV файлах у папці sort
     for file_path in sort_path.glob("*.csv"):
         filename_lower = file_path.name.lower()
-        matched = False
+        destinations = []
 
-        # Перевіряємо файл за кожним правилом
-        for destination, keywords in rules.items():
-            # Якщо хоча б одне ключове слово збігається з назвою файлу
+        # 1. Знаходимо всі папки, куди треба закинути файл
+        for dest, keywords in rules.items():
             if any(re.search(kw, filename_lower) for kw in keywords):
-                dest_dir = dataset_path / destination
-                
-                # Створюємо папку призначення, якщо її раптом немає
+                destinations.append(dest)
+
+        if not destinations:
+            print(f"⚠️ No matching category for '{file_path.name}', skipping.")
+            continue
+
+        # 2. Читаємо, чистимо і записуємо файл
+        # 2. Читаємо, чистимо і записуємо файл
+        # 2. Читаємо, чистимо і записуємо файл
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+            
+            header_idx = 0
+            for i, line in enumerate(lines):
+                if 'Song' in line and 'Artist' in line:
+                    header_idx = i
+                    break
+            
+            # Відрізаємо все до хедера і прибираємо пробіли на початку кожного рядка
+            cleaned_lines = [line.lstrip() for line in lines[header_idx:]]
+
+            # НОВИЙ ФІКС: якщо хедер починається з коми, додаємо #
+            if cleaned_lines and cleaned_lines[0].startswith(','):
+                cleaned_lines[0] = '#' + cleaned_lines[0]
+
+            for dest in destinations:
+                dest_dir = dataset_path / dest
                 dest_dir.mkdir(parents=True, exist_ok=True)
                 
-                # Копіюємо файл
                 dest_file = dest_dir / file_path.name
-                shutil.copy2(file_path, dest_file)
-                print(f"Copied: '{file_path.name}' → '{dest_dir}'")
-                matched = True
+                with open(dest_file, 'w', encoding='utf-8') as f:
+                    f.writelines(cleaned_lines)
+                print(f"Sorted '{file_path.name}' to '{dest_dir}'")
 
-        if matched:
-            try:
-                file_path.unlink() # Видалення файлу
-                print(f"Deleted: '{file_path.name}' from sort folder")
-                processed_files += 1
-            except Exception as e:
-                print(f"Error deleting '{file_path.name}': {e}")
-        else:
-            print(f"⚠️ No match for: '{file_path.name}' - file left in sort folder")
+            # 3. Видаляємо оригінальний брудний файл
+            file_path.unlink()
+            print(f"Deleted original file: '{file_path.name}'")
+            processed_files += 1
+
+        except Exception as e:
+            print(f"❌ Error processing '{file_path.name}': {e}")
 
     print(f"\n🎉 Done! Sorted files: {processed_files}")
 
