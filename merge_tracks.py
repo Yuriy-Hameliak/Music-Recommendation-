@@ -1,134 +1,57 @@
-import os
-import csv
-import random
+import pandas as pd
 from pathlib import Path
 
-# Папка з нашими відсортованими плейлистами
-dataset_path = "dataset"
-# Папка, куди зберігати готові змерджені датасети (поточна коренева папка)
-output_path = "." 
+dataset_path = Path("dataset")
+output_path = Path(".")
+categories = ["season", "time", "weather"]
 
-def merge_datasets(base_path=dataset_path, out_dir=output_path):
-    base_dir = Path(base_path)
-    output_dir = Path(out_dir)
-    
-    if not base_dir.exists() or not base_dir.is_dir():
-        print(f"❌ Помилка: Папку '{base_path}' не знайдено.")
-        return
+df_list = []
 
-    # Головні категорії, для яких ми робимо окремі файли
-    categories = ["season", "time", "weather"]
-    
-    # НОВЕ: Змінна для підрахунку загальної кількості конфліктів по всіх категоріях
-    total_conflicts_all_categories = 0
-    
-    for category_name in categories:
-        category_dir = base_dir / category_name
-        if not category_dir.exists() or not category_dir.is_dir():
+print("Починаємо збір даних через Pandas...")
+
+for category in categories:
+    cat_dir = dataset_path / category
+    if not cat_dir.exists():
+        continue
+        
+    for subcat_dir in cat_dir.iterdir():
+        if not subcat_dir.is_dir():
             continue
             
-        print(f"\n🔄 Починаємо мердж для категорії: {category_name.upper()}")
-        print("-" * 60)
+        subcat = subcat_dir.name
         
-        unique_tracks = {}
-        master_header = None
-        
-        # Проходимося по підкатегоріях (наприклад, rainy, cloudy)
-        for subcategory_dir in category_dir.iterdir():
-            if not subcategory_dir.is_dir():
-                continue
+        for csv_file in subcat_dir.glob("*.csv"):
+            try:
+                # Зчитуємо файл, пропускаючи пошкоджені рядки
+                temp_df = pd.read_csv(csv_file, on_bad_lines='skip', low_memory=False)
                 
-            label = subcategory_dir.name
-            
-            for csv_file in subcategory_dir.glob("*.csv"):
-                try:
-                    with open(csv_file, 'r', encoding='utf-8') as f:
-                        reader = csv.reader(f)
-                        lines = list(reader)
-                        
-                        if not lines:
-                            continue
-                            
-                        header_idx = -1
-                        song_idx = -1
-                        artist_idx = -1
-                        
-                        # Шукаємо хедер
-                        for i, row in enumerate(lines):
-                            if 'Song' in row and 'Artist' in row:
-                                header_idx = i
-                                song_idx = row.index('Song')
-                                artist_idx = row.index('Artist')
-                                
-                                if master_header is None:
-                                    master_header = row
-                                break
-                                
-                        if header_idx == -1:
-                            continue
-                            
-                        # Зчитуємо треки
-                        for row in lines[header_idx + 1:]:
-                            if not row or len(row) <= max(song_idx, artist_idx):
-                                continue
-                                
-                            song_name = row[song_idx].strip()
-                            artist_name = row[artist_idx].strip()
-                            
-                            if song_name and artist_name:
-                                track_key = (song_name, artist_name)
-                                
-                                if track_key not in unique_tracks:
-                                    unique_tracks[track_key] = {
-                                        'row': row,
-                                        'labels': [label]
-                                    }
-                                else:
-                                    if label not in unique_tracks[track_key]['labels']:
-                                        unique_tracks[track_key]['labels'].append(label)
-                                        
-                except Exception as e:
-                    print(f"  [!] Помилка читання {csv_file.name}: {e}")
+                if 'Song' not in temp_df.columns or 'Artist' not in temp_df.columns:
+                    continue
                     
-        if not unique_tracks:
-            print(f"⚠️ Немає даних для об'єднання в категорії {category_name}.")
-            continue
-            
-        output_file = output_dir / f"{category_name}.csv"
-        
-        label_col_name = f"{category_name.capitalize()}_Label"
-        final_header = master_header + [label_col_name]
-        
-        conflicts_count = 0
-        
-        with open(output_file, 'w', encoding='utf-8', newline='') as f:
-            writer = csv.writer(f)
-            writer.writerow(final_header)
-            
-            for (song, artist), data in unique_tracks.items():
-                labels = data['labels']
-                chosen_label = labels[0]
+                # Беремо лише першого виконавця
+                temp_df['Artist'] = temp_df['Artist'].astype(str).apply(lambda x: x.split(',')[0].strip())
                 
-                if len(labels) > 1:
-                    conflicts_count += 1
-                    chosen_label = random.choice(labels)
-                    print(f"🔀 Конфлікт: '{song}' - '{artist}' знайдено в {labels}. Обрано рандомно: '{chosen_label}'")
-                    
-                final_row = data['row'] + [chosen_label]
-                writer.writerow(final_row)
+                # Додаємо мітки
+                temp_df['Category'] = category
+                temp_df['Subcategory'] = subcat
                 
-        print(f"\n✅ Датасет '{output_file.name}' створено!")
-        print(f"   Всього унікальних треків: {len(unique_tracks)}")
-        print(f"   Конфліктів вирішено: {conflicts_count}")
-        print("-" * 60)
-        
-        # НОВЕ: Додаємо конфлікти цієї категорії до загальної суми
-        total_conflicts_all_categories += conflicts_count
+                df_list.append(temp_df)
+            except Exception as e:
+                print(f"Помилка з файлом {csv_file.name}: {e}")
 
-    # НОВЕ: Фінальний вивід загальної статистики
-    print(f"\n🎉 Всі етапи завершено!")
-    print(f"🔥 ЗАГАЛЬНА КІЛЬКІСТЬ ВИРІШЕНИХ КОНФЛІКТІВ: {total_conflicts_all_categories}")
-    print("=" * 60 + "\n")
-
-# Запуск!
-merge_datasets()
+if not df_list:
+    print("Не знайдено валідних даних для об'єднання.")
+else:
+    # Об'єднуємо всі таблиці
+    full_df = pd.concat(df_list, ignore_index=True)
+    
+    # Вирішення конфліктів: перемішуємо і видаляємо дублікати за ключем (Song, Artist, Category)
+    full_df = full_df.sample(frac=1, random_state=42).reset_index(drop=True)
+    final_df = full_df.drop_duplicates(subset=['Song', 'Artist', 'Category'], keep='first')
+    
+    # Зберігаємо чистий файл
+    output_file = output_path / "all_tracks_merged.csv"
+    final_df.to_csv(output_file, index=False)
+    
+    print(f"Фінальний датасет успішно створено!")
+    print(f"Всього рядків записано: {len(final_df)}")
